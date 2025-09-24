@@ -1,0 +1,41 @@
+name: mod_cc_eleven
+description: "Module for CentralControl 11"
+version: 0.0.1
+
+homepage:
+publish_to: 'none'
+
+
+environment:
+  sdk: ^3.7.2
+  flutter: '>=3.3.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  ffi: ^2.0.2
+  
+  modules_common:
+    path: ../modules_common
+
+  mod_update_file:
+    path: ../mod_update_file
+
+  mod_evo:
+    path: ../mod_evo
+
+  mod_cen_plus:
+    path: ../mod_cen_plus
+
+  cc_eleven_protocol:
+    path: ../../plugins/cc_eleven
+
+  hydrogen_flutter:
+    path: ../../plugins/hydrogen_flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  

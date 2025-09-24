@@ -1,0 +1,3084 @@
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tab_view.dart:138
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8;  nplurals=2;  plural=(n != 1)\n"
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/devices.dart:141
+msgid "Verbindung wird hergestellt"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/devices.dart:152
+msgid "Fehler"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/devices.dart:153
+msgid "Es konnte keine Verbindung hergestellt werden"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/devices.dart:169
+msgid "CentralControl"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/devices.dart:207
+msgid "Bluetooth"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/devices.dart:255
+msgid "USB"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/devices.dart:254
+msgid "CentronicPLUS USB-Stick"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/devices.dart:296
+msgid "Startklar!"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/devices.dart:297
+msgid ""
+"Bitte stecken Sie einen Centronic PLUS USB-Stick ein oder bringen Sie ein "
+"Bluetooth-fähiges Becker-Antriebe Produkt in Lernbereitschaft"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/clock.dart:351
+msgid "%s"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/licenses/licenses_view.dart:24
+msgid "Lizenzen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/evo/evo.dart:109
+msgid "Sonderfunktionen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/timecontrol.dart:150
+msgid "Bedienung"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_endposition_view.dart:13
+msgid "Endlagen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_evo_configuration.dart:13
+msgid "Fahrprofil"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/settings.dart:837
+msgid "Zwischenpositionen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/timecontrol.dart:76
+msgid "Einrichtung unvollständig"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/settings.dart:873
+msgid "Lüftungsposition (ZP1) anfahren"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/settings.dart:884
+msgid "Beschattungsposition (ZP2) anfahren"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/settings.dart:895
+msgid "Lüftungsposition (ZP1) setzen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/settings.dart:906
+msgid "Beschattungsposition (ZP2) setzen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/evo/intermediate_positions.dart:200
+msgid "Zwischenposition löschen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/evo/intermediate_positions.dart:201
+msgid "Möchten Sie die Zwischenposition wirklich löschen?"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/evo/intermediate_positions.dart:186
+msgid "Lüftungsposition (ZP1) löschen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/evo/intermediate_positions.dart:210
+msgid "Beschattungsposition (ZP2) löschen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/settings.dart:935
+msgid "Zwischenpositionen löschen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/settings.dart:925
+msgid "Möchten Sie wirklich alle Zwischenpositionen löschen?"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/start.dart:96
+msgid "Konfiguration beenden"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/evo/evo.dart:71
+msgid "Möchten Sie die Konfiguration wirklich beenden?"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/evo/evo.dart:103
+msgid "Fahrprofil / Geschwindigkeiten"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/control.dart:314
+msgid "Lüftungsposition"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/control.dart:334
+msgid "Beschattungsposition"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/setup.dart:304
+msgid "Endlage oben setzen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_endposition_view.dart:82
+msgid "Endlage(n) löschen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/setup.dart:352
+msgid "Endlage unten setzen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_endposition_view.dart:224
+msgid "Drehrichtung ändern"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_endposition_view.dart:253
+msgid "Die Änderung der Drehrichtung ist nur bei gelöschten Endlagen möglich."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_endposition_view.dart:263
+msgid ""
+"Wird die \"Endlagen löschen\"-Funktion in einer der beiden Endlagen stehend "
+"aufgerufen, so wird nur diese Endlage gelöscht."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_user_view.dart:287
+msgid ""
+"Aktivierbar, wenn die obere Endlage auf Anschlag eingestellt ist. Der "
+"Behang fährt nicht gegen den oberen Anschlag, sondern bleibt kurz vorher "
+"stehen um ein Anfrieren (bspw. bei Verwendung einer Winkelendleiste) zu "
+"verhindern."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_user_view.dart:296
+msgid "Festfrierschutz"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_user_view.dart:255
+msgid ""
+"Der Antrieb reagiert im oberen Bereich des Verfahrwegs deutlich früher auf "
+"Hindernisse. So wird die Beschädigung von Insektenschutztüren verhindert, "
+"die unmittelbar unter der oberen Endlage montiert sind."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_user_view.dart:263
+msgid "Fliegengitterschutz"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/clock.dart:155
+msgid "Ab"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/clock.dart:141
+msgid "Auf"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/evo/widgets/speed.dart:133
+msgid "Langsamfahrt Ab"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/evo/widgets/speed.dart:160
+msgid "Langsamfahrt Auf"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/evo/widgets/speed.dart:187
+msgid "Eilfahrt Ab"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/evo/widgets/speed.dart:214
+msgid "Eilfahrt Auf"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/licenses/licenses_view.dart:41
+msgid "Version: %s"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/licenses/licenses_view.dart:42
+msgid "Homepage: %s"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/licenses/licenses_view.dart:43
+msgid "Repository: %s"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/settings.dart:237
+msgid "Einstellungen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_user_view.dart:252
+msgid ""
+"Schaltet die Geräte-LED dauerhaft ein um nachts eine Orientierung im Raum "
+"zu ermöglichen."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_user_view.dart:254
+msgid ""
+"Aktivierbar, wenn die obere Endlage auf Anschlag eingestellt ist. Bei "
+"erreichen der oberen Endlage wird die Bremse kurz geöffnet um eine "
+"dauerhafte Belastung des Behangs zu verhindern."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_user_view.dart:261
+msgid "Nachtlicht"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_user_view.dart:262
+msgid "Tuchentlastung"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_user_view.dart:284
+msgid "Zeigt den aktuellen Schaltzustand (ein/aus) über die Geräte-LED an."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_user_view.dart:286
+msgid ""
+"Den gewünschten Reversierpunkt anfahren und die Funktion aktivieren um den "
+"Antrieb automatisch nach Erreichen der Endlage in die programmierte "
+"Position zurückfahren lassen. Zum Löschen die Funktion in der "
+"Reversierposition stehend wieder deaktivieren."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_user_view.dart:294
+msgid "Status LED"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_user_view.dart:295
+msgid "Automatische Tuchspannung"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_user_view.dart:316
+msgid ""
+"Aktiviert oder deaktiviert die automatische Sonnenschutzüberwachung. Das "
+"gewählte Gerät muss mit einem entsprechenden Sensor verbunden sein."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_user_view.dart:323
+msgid "Sonnenschutzautomatik"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_user_view.dart:341
+msgid ""
+"Aktiviert oder deaktiviert die Memo-Funktion im gewählten Gerät. "
+"Memo-Zeiten können mit geeigneten Handsendern programmiert werden indem zum "
+"gewünschten Zeitpunkt die Fahrtaste länger als 5 Sekunden gedrückt wird. "
+"Die Fahrbewegung wird dann alle 24 Stunden wiederholt."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/settings.dart:353
+msgid "Memo-Funktion"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_remote_channel_selector.dart:276
+msgid "Kanalbelegung"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/node_info.dart:57
+msgid "Warte auf Handsender"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/node_info.dart:61
+msgid "Drücken Sie jetzt eine Taste an Ihrem Handsender"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/multicast_control.dart:450
+msgid "Alle Funkzuordnungen löschen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_user_view.dart:431
+msgid "Gerätezuordnung beenden"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/remote_assign.dart:22
+msgid "Gerätezuordnung"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_user_view.dart:435
+msgid "Sensorzuordnung beenden"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/remote_assign.dart:21
+msgid "Sensorzuordnung"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/sun_protection.dart:86
+msgid "Sonnenschutz"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:186
+msgid "Betriebsart"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:467
+msgid "Laufzeit"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_user_view.dart:481
+msgid "Fahrprofile"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_advanced_settings_view.dart:13
+msgid "Erweiterte Einstellungen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_user_view.dart:530
+msgid "Die Sensorzuordnung ist aktiv"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_user_view.dart:531
+msgid "Die Gerätezuordnung ist aktiv"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_user_view.dart:534
+msgid ""
+"Um einen Sensor zuzuordnen oder eine bestehende Zuordnung zu löschen, "
+"tippen Sie bitte das gewünschte Gerät an."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_user_view.dart:535
+msgid ""
+"Um Geräte zuzuordnen oder eine bestehende Zuordnung zu löschen, tippen Sie "
+"bitte das gewünschte Gerät an."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/simple_view.dart:104
+msgid "Beenden"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/multicast_net_delete.dart:30
+msgid ""
+"Durch das Löschen der Funkzuordnung werden alle Einstellungen zum gewählten "
+"Funksystem zurückgesetzt! Eingelernte Handsender verlieren dadurch die "
+"Funktion und müssen neu verbunden werden. Sind Sie sicher dass das "
+"Funksystem zurückgesetzt werden soll?"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/multicast_control.dart:96
+msgid "Achtung!"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_advanced_settings_view.dart:37
+msgid ""
+"Durch das Löschen der Sensorzuordnung werden alle verbundenen Sensoren von "
+"diesem Gerät entfernt! Sämtliche Überwachungsfunktionen werden deaktiviert.\n"
+"Sind Sie sicher?"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/multicast_control.dart:65
+msgid ""
+"Durch das Aktivieren der Sicherheitsfunktion wird das Herstellen der "
+"Lernbereitschaft nach einem Power-On dauerhaft deaktiviert! Wenn kein "
+"Zugriff mehr auf dieses Netz besteht (kein Handsender oder USB-Stick mehr "
+"vorhanden), ist eine Änderung des Netzes nicht mehr möglich. Eine "
+"Rücksetzung kann ausschließlich über einen Werksreset erfolgen - bei "
+"Antrieben erfordert dies ein Universal-Einstellset sowie Zugang zum "
+"Anschlusspunkt!"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_advanced_settings_view.dart:79
+msgid "Gerät neu starten"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_advanced_settings_view.dart:52
+msgid ""
+"Das Gerät wird neu gestartet. Es kann einen Moment dauernd, bis alle "
+"Funktionen des Geräts wieder verfügbar sind."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/ota/alert.dart:14
+msgid "Firmware aktualisieren"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/multicast_control.dart:359
+msgid "Antriebssperre"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/node_status_message.dart:316
+msgid "Sperre aufheben"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_advanced_settings_view.dart:121
+msgid "AUF-Richtung sperren"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_advanced_settings_view.dart:133
+msgid "AB-Richtung sperren"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_advanced_settings_view.dart:145
+msgid "AUF- & AB-Richtung sperren"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_advanced_settings_view.dart:150
+msgid "CentronicPLUS"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_advanced_settings_view.dart:191
+msgid "Einlernbereitschaft aktivieren"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_advanced_settings_view.dart:169
+msgid "Einlernbereitschaft deaktivieren"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_advanced_settings_view.dart:174
+msgid "Centronic"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_advanced_settings_view.dart:182
+msgid "Einlernbereitschaft aktivieren (Master)"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_advanced_settings_view.dart:200
+msgid "Auslernbereitschaft aktivieren"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_advanced_settings_view.dart:209
+msgid "Ein-/Auslernbereitschaft deaktivieren"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/multicast_control.dart:540
+msgid "Alle Sensorzuordnungen löschen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/multicast_control.dart:378
+msgid "Funkzuordnung löschen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/multicast_control.dart:388
+msgid "Centronic Funkzuordnung löschen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/multicast_control.dart:399
+msgid "Centronic löschen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/multicast_control.dart:410
+msgid "CentronicPLUS Funkzuordnung löschen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/multicast_control.dart:423
+msgid "CentronicPLUS löschen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_remote_channel_selector.dart:142
+msgid "Ungespeicherte Änderungen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_remote_channel_selector.dart:143
+msgid "Sollen die Änderungen gespeichert werden?"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_sun_protection_view.dart:183
+msgid "Die Sonnenschutzeinstellungen werden geladen."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/node_status_message.dart:39
+msgid "Bitte haben Sie einen Moment Geduld."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/setup_runner.dart:1361
+msgid "Wiederholen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_sun_protection_view.dart:211
+msgid "Sonnenschwellwert (Stufe)"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_sun_protection_view.dart:215
+msgid "Überschritten"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_sun_protection_view.dart:236
+msgid "Unterschritten"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_sun_protection_view.dart:251
+msgid "Verzögerung Sonnenautomatik (Minuten)"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_sun_protection_view.dart:255
+msgid "Ausfahrtverzögerung bei erreichtem Sonnenwert"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_sun_protection_view.dart:272
+msgid "Einfahrtverzögerung bei unterschrittenem Sonnenwert"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_sun_protection_view.dart:284
+msgid "Schwellwert für Windsensor"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:523
+msgid "Wintermodus"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_sun_protection_view.dart:311
+msgid ""
+"Der gewählte Empfänger fährt automatisch in die obere Endlage und wird "
+"gegen jede Art der Bedienung gesperrt (betrifft auch alle eingelernten "
+"Sender). Wird verwendet, um Schutzüberzüge für Markisen vor Beschädigungen "
+"zu schützen."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_sun_protection_view.dart:330
+msgid "Reaktion auf Regen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_sun_protection_view.dart:340
+msgid "Einfahren"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_sun_protection_view.dart:345
+msgid "Keine"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_sun_protection_view.dart:350
+msgid "Ausfahren"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_sun_protection_view.dart:392
+msgid "Die Sonnenschutzkonfiguration ist aktiv"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_sun_protection_view.dart:397
+msgid ""
+"Markieren Sie weitere Geräte des gleichen Typs, um Schwellwerte an mehrere "
+"Geräte gleichzeitig zu übertragen. Durch erneutes Antippen können Sie die "
+"vorherige Markierung aufheben."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_operation_mode_view.dart:32
+msgid ""
+"Die Änderung der Betriebsart hat zur Folge, dass ALLE Einstellungen des "
+"Empfängers zurückgesetzt werden! Davon sind alle programmierten Laufzeiten, "
+"Zwischenpositionen und Sonnenschutzeinstellungen betroffen. Gegebenenfalls "
+"müssen eingelernte Handsender noch einmal aus- und neu eingelernt werden, "
+"um die volle Funktionalität sicherzustellen."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_operation_mode_view.dart:35
+msgid "Sind Sie sicher, dass die Betriebsart des Geräts geändert werden soll?"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_operation_mode_view.dart:87
+msgid "Schaltaktor"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_operation_mode_view.dart:59
+msgid "Rollladen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_operation_mode_view.dart:69
+msgid "Schaltaktor (Impuls)"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_operation_mode_view.dart:78
+msgid "Treppenlicht"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:199
+msgid "Jalousie"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_operation_mode_view.dart:95
+msgid "Rollladen (Impuls)"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/net_view.dart:61
+msgid "Auf CPLUSstick speichern"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/net_view.dart:128
+msgid "Soll die Einrichtung wirklich beendet werden?"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/net_view.dart:130
+msgid "Ihre CentralControl wird neu gestartet."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/net_view.dart:395
+msgid "Rückmeldung aktivieren"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/net_view.dart:156
+msgid ""
+"Hiermit werden alle eingelernten Geräte aufgefordert, alle Statusänderungen "
+"direkt an das Tool zu senden. Denken Sie unbedingt daran, diese Rückmeldung "
+"wieder zu deaktivieren, wenn der USB Stick nach Abschluss der Installation "
+"nicht in der Installation verbleibt (da sonst unnötige Rückmeldungen in die "
+"Installation erfolgen). Ältere Softwarestände unterstützen diese Funktion "
+"gegebenenfalls noch nicht."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/net_view.dart:195
+msgid "Vorhandene Centronic PLUS Geräte"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/net_view.dart:206
+msgid "Filtern nach Name"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/net_view.dart:207
+msgid "Filter"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/net_view.dart:261
+msgid "Informationen zum USB-Stick"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/net_view.dart:267
+msgid "Teilnehmer einer Installation:"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/remote_assign.dart:32
+msgid "Ja"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/remote_assign.dart:27
+msgid "Nein"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/net_view.dart:277
+msgid "MAC-ID:"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/net_view.dart:288
+msgid "Installations-ID:"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/net_view.dart:294
+msgid "Firmware:"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/net_view.dart:303
+msgid "App-Version:"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/net_view.dart:316
+msgid "Bekannte Geräte:"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/net_view.dart:332
+msgid "USB-Update verfügbar"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/stick_update.dart:5
+msgid "USB-Firmware aktualisieren"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/stick_reset.dart:5
+msgid "USB-Stick zurücksetzen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/net_view.dart:364
+msgid "Aktualisierung abbrechen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/net_view.dart:365
+msgid "Ansicht aktualisieren"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/net_view.dart:381
+msgid "Alle Daten neu einlesen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/net_view.dart:412
+msgid "Beta Updates"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/multicast_control.dart:19
+msgid "Globale Befehle"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/ota/ota_all_alert.dart:25
+msgid "Alle Geräte aktualisieren"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/ota/alert.dart:96
+msgid "Abbrechen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/stick_reset.dart:34
+msgid ""
+"Um die Funktion des USB-Sticks sicherzustellen entfernen Sie diesen nach "
+"dem Zurücksetzen aus dem USB-Port"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/stick_reset.dart:37
+msgid "Möchten Sie den USB-Stick jetzt zurücksetzen?"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/foreign_node_tile.dart:67
+msgid "Empfänger einlernen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/multicast_net_delete.dart:32
+msgid "Diese Aktion mit \"%s\" bestätigen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/net_confirm_join.dart:26
+msgid ""
+"Das gewählte Centronic PLUS Gerät ist bereits Teil einer anderen "
+"Installation. Wie möchten Sie fortfahren?"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/net_confirm_join.dart:29
+msgid ""
+"Das gewählte Gerät zu meiner Installation hinzufügen (die bestehenden "
+"Funkdaten werden gelöscht)."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/gateway/alerts/login.dart:305
+msgid "Weiter"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/net_confirm_join.dart:46
+msgid "oder"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/net_confirm_join.dart:50
+msgid ""
+"Installationsdaten des USB Sticks verwerfen und der bestehenden "
+"Installation beitreten."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/stick_update.dart:35
+msgid "Der USB-Stick wird ausgeworfen und als Laufwerk eingebunden."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/stick_update.dart:38
+msgid "Kopieren Sie das Firmware Update auf dieses Laufwerk."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/quit.dart:52
+msgid "USB-Stick verbleibt beim Kunden"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/quit.dart:89
+msgid "USB-Stick verbleibt beim Monteur"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/multicast_control.dart:76
+msgid ""
+"Sollen wirklich alle Antriebe der Installation gegen Bedienung gesperrt "
+"werden?"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/multicast_control.dart:83
+msgid "Sollen wirklich alle Sensorzuordnungen gelöscht werden?"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/multicast_control.dart:90
+msgid "Sollen wirklich alle Endlagen gelöscht werden?"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/multicast_control.dart:97
+msgid "Sollen wirklich alle Antriebe der Installation entsperrt werden?"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/multicast_control.dart:249
+msgid "Sonnenschutzautomatik aktivieren"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/multicast_control.dart:266
+msgid "Sonnenschutzautomatik deaktivieren"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/multicast_control.dart:285
+msgid "Memo-Funktion aktivieren"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/multicast_control.dart:302
+msgid "Memo-Funktion deaktivieren"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/multicast_control.dart:313
+msgid "Geräte neu starten"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/multicast_control.dart:314
+msgid ""
+"Alle Geräte werden neu gestartet. Es kann einen Moment dauernd, bis alle "
+"Funktionen wieder verfügbar sind."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/multicast_control.dart:327
+msgid "Alle Geräte neu starten"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/multicast_control.dart:353
+msgid "Ping"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/multicast_control.dart:459
+msgid "Erweitert"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/multicast_control.dart:481
+msgid "Alle Endlagen löschen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/multicast_control.dart:504
+msgid "Alle Antriebe sperren"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/remote_assign.dart:75
+msgid "Soll der Sender von dem Gerät getrennt werden?"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/remote_assign.dart:71
+msgid "Soll das Gerät Kanal %s auf dem Handsender zugeordnet werden?"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/remote_assign.dart:73
+msgid "Soll der Sensor von dem Gerät getrennt werden?"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/remote_assign.dart:77
+msgid "Soll der Sensor dem Gerät zugeordnet werden?"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/alerts/remote_assign.dart:79
+msgid "Soll der Sender dem Gerät zugeordnet werden?"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_endposition_view.dart:72
+msgid ""
+"Die Änderung der Drehrichtung kann nur ausgelöst werden, wenn die Endlagen "
+"im entsprechenden Gerät noch nicht gesetzt sind."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_endposition_view.dart:83
+msgid "Sollen die Endlagen gelöscht werden?"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_endposition_view.dart:368
+msgid "Laufzeit übertragen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_endposition_view.dart:138
+msgid "Soll die Laufzeit von %s auf %s übertragen werden?"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_endposition_view.dart:204
+msgid "Endlage löschen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_endposition_view.dart:239
+msgid ""
+"Bitte setzen Sie zuerst du untere Endlage. Fahren Sie die Jalousie danach "
+"in die maximale Wendung (volle Öffnung der Lamellen) und setzen Sie "
+"nochmals die untere Endlage. Dann fahren Sie die Jalousie komplett auf und "
+"setzen Sie die obere Endlage. Damit ist die Programmierung abgeschlossen "
+"und der individuelle Wendungsweg Ihrer Jalousie ist eingestellt."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/settings.dart:789
+msgid "Sekunden"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_endposition_view.dart:313
+msgid "Wendungszeit"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_endposition_view.dart:341
+msgid "Impulszeit"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_endposition_view.dart:355
+msgid "Laufzeit speichern"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_endposition_view.dart:368
+msgid "Laufzeitübertragung abbrechen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_endposition_view.dart:377
+msgid "Laufzeit löschen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_endposition_view.dart:422
+msgid "Die Laufzeitübertragung ist aktiv"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_endposition_view.dart:427
+msgid "Markieren Sie weitere Geräte, um Laufzeiten zu übertragen."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:503
+msgid "Speichern"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_remote_channel_selector.dart:186
+msgid ""
+"Die Handsenderkonfiguration wird gespeichert. Dies kann einen Moment in "
+"Anspruch nehmen."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_remote_channel_selector.dart:255
+msgid "Kanalbelegung speichern"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_remote_channel_selector.dart:303
+msgid "Kanal"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/node_evo_configuration.dart:61
+msgid "Geschwindigkeiten"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/foreign_node_tile.dart:111
+msgid "Gerät identifizieren"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/own_nodes.dart:96
+msgid "Aktualisierung verfügbar"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/information.dart:111
+msgid "Unbekannt"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/node_info.dart:111
+msgid "Sonne / Wind (solarversorgt)"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/setup_runner.dart:1428
+msgid "Einrichtung abgeschlossen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/node_info.dart:179
+msgid "Geräteinformationen aktualisieren"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/node_info.dart:214
+msgid "Seriennummer: %s"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/node_info.dart:221
+msgid "MAC-ID: %s"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/node_info.dart:231
+msgid "Software: %s"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/node_info.dart:241
+msgid "Build: %s"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/node_info.dart:270
+msgid "Gerätename"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/node_info.dart:286
+msgid "Der Name ist zu lang!"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/node_info.dart:297
+msgid "Gerätenamen ändern"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/foreign_node_tile.dart:68
+msgid "Soll der Empfänger der Installation hinzugefügt werden?"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/foreign_node_tile.dart:74
+msgid "Netz beitreten"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/foreign_node_tile.dart:75
+msgid ""
+"Der ausgewählt Empfänger ist bereits Teil einer Installation. Möchten Sie "
+"dieser Installation beitreten?"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/foreign_node_tile.dart:81
+msgid "Netzwerkbeitritt"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/foreign_node_tile.dart:82
+msgid "Netzbeitritt läuft. Bitte einen kleinen Moment Geduld."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/foreign_nodes.dart:129
+msgid "Werkszustand"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/foreign_node_tile.dart:125
+msgid "Das Gerät ist bereits Teil einer Installation"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/node_status_message.dart:32
+msgid ""
+"Informationen werden gelesen. Es stehen eventuell nicht alle Funktionen zur "
+"Verfügung oder die Bedienung ist eingeschränkt."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/node_status_message.dart:425
+msgid "Es konnten nicht alle Informationen gelesen werden."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/node_status_message.dart:77
+msgid "Bitte versuchen Sie es gleich erneut."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/node_status_message.dart:97
+msgid ""
+"Stellen Sie sicher, dass die LED-Anzeige Ihres Handsenders nicht leuchtet. "
+"Verlassen Sie gegebenfalls den Einlernbetrieb durch langes Drücken der "
+"Einlerntaste. Drücken Sie dann die Stopp Taste Ihrer Fernbedienung erneut."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/node_status_message.dart:105
+msgid "Drücken Sie die Stopp Taste Ihres Sensors erneut"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/node_status_message.dart:413
+msgid "Das Gerät hat ein Hindernis erkannt."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/control.dart:147
+msgid "Sensorverlust!"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/control.dart:163
+msgid "Windalarm - Gerät gesperrt!"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/node_status_message.dart:407
+msgid "Beschattung aktiv"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/control.dart:179
+msgid "Regen erkannt."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/node_status_message.dart:419
+msgid "Schwellwertüberschreitung"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/node_status_message.dart:395
+msgid "Das Gerät hat ein thermisches Problem erkannt."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/node_status_message.dart:286
+msgid "Das Gerät ist in AUF- und AB-Richtung gesperrt!"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/node_status_message.dart:291
+msgid "Das Gerät ist in AB-Richtung gesperrt!"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/node_status_message.dart:296
+msgid "Das Gerät ist in AUF-Richtung gesperrt!"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/node_status_message.dart:377
+msgid "Das Gerät ist in AUF- oder AB-Richtung gesperrt!!"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/node_status_message.dart:339
+msgid ""
+"Dieser Sensor sendet ausschließlich Fahrbefehle! Die Konfiguration von "
+"Schwellwerten muss direkt am %s erfolgen."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/node_status_message.dart:339
+msgid "Sensor"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/node_status_message.dart:371
+msgid "Das Gerät hat %s mehrere Fehler festgestellt"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/node_status_message.dart:389
+msgid "Sensorverlust"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/node_status_message.dart:437
+msgid "Es ist ein unbekanntes Problem aufgetreten."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/foreign_nodes.dart:32
+msgid "Neue Geräte finden und hinzufügen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/foreign_nodes.dart:47
+msgid "Hinzufügen beenden"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/foreign_nodes.dart:67
+msgid "Es wurden noch keine Geräte entdeckt"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/foreign_nodes.dart:126
+msgid "Installation:"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/node_sensor_values.dart:14
+msgid "Es wurden noch keine Werte gelesen. Bitte haben Sie einen Moment Geduld"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/node_sensor_values.dart:28
+msgid "Sonne"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/sun_protection.dart:154
+msgid "Wind"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/control.dart:419
+msgid "Temperatur"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:284
+msgid "Dämmerung"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/node_sensor_values.dart:63
+msgid "Batterie"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/log_view.dart:61
+msgid "Telegrammdarstellung"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/log_view.dart:71
+msgid "Funkprotokoll exportieren"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/centronic_plus/widgets/log_view.dart:248
+msgid "Telegramm"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tab_view.dart:137
+msgid "Artikelnummer"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tab_view.dart:145
+msgid "Bus-Version"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/alerts/report.dart:108
+msgid "-"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tab_view.dart:155
+msgid "Zusatzkarte"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tab_view.dart:160
+msgid "Erkannt"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tab_view.dart:160
+msgid "N/A"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tab_view.dart:180
+msgid "V DC In"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tab_view.dart:194
+msgid "RS485"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tab_view.dart:208
+msgid "Bremse"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tab_view.dart:223
+msgid "FE1 Auf"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/maintenance.dart:72
+msgid "Wartung"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tab_view.dart:251
+msgid "Endlage oben"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tab_view.dart:310
+msgid "Entwickler"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/setup.dart:189
+msgid "Inbetriebnahme"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tab_view.dart:286
+msgid "Schließgeschwindigkeits-Überwachung"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/manufacturer.dart:78
+msgid "Hersteller"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/start.dart:84
+msgid "Bedienungsanleitung"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/monitoring.dart:28
+msgid "Schließgeschwindigkeitsüberwachung"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/monitoring.dart:44
+msgid "Automatische Kalibrierung"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/monitoring.dart:54
+msgid "Zulässige Überschreitung"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/monitoring.dart:62
+msgid "%"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/monitoring.dart:84
+msgid "Expertenmodus"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/monitoring.dart:91
+msgid "Behanghöhe"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/monitoring.dart:135
+msgid "mm"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/monitoring.dart:109
+msgid "Wickelwellen-Ø"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/monitoring.dart:127
+msgid "Behangstärke"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/monitoring.dart:145
+msgid "Abrollgeschwindigkeit"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/monitoring.dart:187
+msgid "m/s"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/monitoring.dart:169
+msgid "Kalibrieren"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/monitoring.dart:179
+msgid "Grenzwert"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/start.dart:59
+msgid ""
+"Die Inbetriebnahme und Wartung von XCF Steuerungen erfordert einen "
+"Hardware-Dongle.\n"
+"Bitte stecken Sie den Dongle in Ihren PC."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/start.dart:72
+msgid "Warnung"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/start.dart:73
+msgid ""
+"Während der Inbetriebnahme dürfen keine Anschlüsse an der Steuerung "
+"vorgenommen werden."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/manufacturer.dart:93
+msgid "Systemeinstellungen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/settings.dart:963
+msgid "Werkseinstellungen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/manufacturer.dart:113
+msgid ""
+"Hinweis: Durch Zurücksetzen auf die Werkseinstellungen wird das Passwort "
+"auf das Standard-Passwort zurückgesetzt!"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/manufacturer.dart:127
+msgid "Werkseinstellungen wiederherstellen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/manufacturer.dart:120
+msgid "Sind Sie sicher, dass Sie die Werkseinstellungen wiederherstellen möchten?"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/alerts/report.dart:19
+msgid "Wartungsbericht"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/alerts/report.dart:74
+msgid "Fehlerspeicher"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/alerts/report.dart:79
+msgid "Index"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/alerts/report.dart:81
+msgid "Fehlcode"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/alerts/report.dart:83
+msgid "Zyklus"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/alerts/report.dart:85
+msgid "Beschreibung"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/alerts/report.dart:87
+msgid "Ursache"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/alerts/report.dart:89
+msgid "Frezquenz"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:4
+msgid "Quittierung nach Neustart der Steuerung"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:5
+msgid "NA1 NOT-HALT ausgelöst"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:6
+msgid "NA2 NOT-HALT ausgelöst"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:7
+msgid "Schlupftür wurde geöffnet"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:8
+msgid "Torverriegelungsbolzen löst nicht"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:9
+msgid "Schlupftürverriegelungsbolzen löst nicht"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:10
+msgid "Schlaffseil/ Überlastschalter ausgelöst"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:11
+msgid "Negative Testung des elektromagnetisch testbaren Schlupftürschalters"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:12
+msgid "Endschalter AUF und ZU zeitgleich belegt"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:13
+msgid "Endschalter Teilöffnung und Geschlossen zeitgleich belegt"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:14
+msgid "Protokoll Übertragungsfehler des Absolutwertdrehgebers"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:15
+msgid "Übertragungsfehler zum Absolutwertdrehgeber des Antriebes"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:16
+msgid "Position hat sich sprunghaft geändert"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:17
+msgid "Interner Fehler Geber"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:68
+msgid "Eingang Sammelstörung"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:19
+msgid "Interner NOT-HALT ausgelöst"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:20
+msgid "Not-Stopp-Transistor defekt"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:21
+msgid "Hardware-Testung der Transistoren Auf, Zu oder Sicherheit fehlgeschlagen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:22
+msgid "Steuerungsinterner Fehler beim ROM-Test"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:23
+msgid "Steuerungsinterner Fehler beim RAM-Test"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:24
+msgid "Interner Zugriffsfehler auf nichtflüchtigen Speicher (EEPROM)"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:25
+msgid "E.020"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:26
+msgid "Laufzeitüberschreitung in Schließ-Richtung"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:27
+msgid "Laufzeitüberschreitung in Öffnen-Richtung"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:28
+msgid "Antriebsdrehrichtung weicht von der erwarteten Drehrichtung ab"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:29
+msgid "Wartung ist notwendig"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:30
+msgid "Befehl Stopp zu lange belegt"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:31
+msgid "Fahrbefehl Schließen zu lange belegt"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:32
+msgid "Fahrbefehl Öffnen zu lange belegt"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:33
+msgid "Hindernis blockiert Fahrt"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:34
+msgid "Schlupftürschalter ungleichmäßig geschaltet"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:35
+msgid "Einzugsicherung AUF ausgelöst"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:36
+msgid "Einzugsicherung AUF und ZU ausgelöst"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:37
+msgid "Einzugsicherung ZU ausgelöst"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:38
+msgid "Sicherheit OSE FE1 ausgelöst"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:39
+msgid "Schaltleiste SE1 ist vor der ZU-Fahrt geschaltet"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:40
+msgid "Negativer Test des Eingangs SE1"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:41
+msgid "Schaltleiste SE2 ist vor der ZU-Fahrt geschaltet"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:42
+msgid "Negativer Test des Eingangs SE2"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:43
+msgid ""
+"Kein Schaltimpuls der Schaltleiste in der unteren Endlage – Testung "
+"fehlgeschlagen (DW)"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:44
+msgid "Vorendschalter Schaltleistentestung zu hoch eingestellt"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:45
+msgid "Kommunikationsstörung zur Erweiterungskarte M2"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:46
+msgid "Batterieunterspannung TST PD"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:47
+msgid "Negative Testung der Lichtschranke 1"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:48
+msgid "Negative Testung der Lichtschranke 2"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:49
+msgid "Negative Testung der Einzugsicherung AUF"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:50
+msgid "Negative Testung der Einzugsicherung AUF und ZU"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:51
+msgid "Negative Testung der Einzugsicherung ZU"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:52
+msgid "Negative Testung der Schaltleiste SE1"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:53
+msgid "Negative Testung des Sicherheitseingangs SE2"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:54
+msgid "Negative Testung der Schlupftür SE2"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:55
+msgid "Funkleiste konnte nicht aktiviert werden"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:57
+msgid "Störung des Vorendschalters für die Lichtschranke"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:58
+msgid "Ablauf des Wartungsintervalls"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:59
+msgid "Funktaster Kanal 1 zu lange belegt"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:60
+msgid "Funktaster Kanal 2 zu lange belegt"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:61
+msgid "Funktaster Kanal 3 zu lange belegt"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:62
+msgid "Funktaster Kanal 4 zu lange belegt"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:64
+msgid "Fahrbefehlfolgetaster zu lange belegt"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:65
+msgid "RWA-Eingang ausgelöst"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:66
+msgid "Schaltleiste SE1 hat bei 5 aufeinander folgenden Abfahrten ausgelöst"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:67
+msgid "Schaltleiste SE2 hat bei 5 aufeinander folgenden Abfahrten ausgelöst"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/tx_units.dart:69
+msgid "Deckeltastatur ist nicht aufgesteckt"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/developer.dart:51
+msgid "Inbetriebnahme Informationen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/developer.dart:73
+msgid "TEL_SET_INPUT FE 1"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/developer.dart:84
+msgid "TEL_SET_INPUT FE 2"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/developer.dart:95
+msgid "TEL_SET_INPUT SE 1"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/developer.dart:103
+msgid "Stop"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/developer.dart:110
+msgid "TEL_SET_INPUT DI_PROG"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/setup.dart:328
+msgid "Endlagen zurücksetzen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/setup.dart:100
+msgid "Sind Sie sicher, dass Sie beide Endlagen zurücksetzen möchten?"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/setup.dart:359
+msgid "Endlage oben löschen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/setup.dart:129
+msgid "Sind Sie sicher, dass Sie die obere Endlage löschen möchten?"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/setup.dart:159
+msgid "Endlage unten löschen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/setup.dart:160
+msgid "Sind Sie sicher, dass Sie die untere Endlage löschen möchten?"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/setup.dart:204
+msgid "1/3 Projekt-Informationen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/setup.dart:242
+msgid "2/3 Endlagen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/setup.dart:258
+msgid "Drehrichtung unbekannt!"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/setup.dart:259
+msgid ""
+"Fahren Sie den Antrieb in Auf- oder Ab-Richtung, um die Drehrichtung zu "
+"erkennen. Wird die Drehrichtung nicht erkannt prüfen Sie die Anschlüsse "
+"Ihrer Steuerung."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/setup.dart:275
+msgid "Drehrichtungsumkehr"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/setup.dart:281
+msgid "Drehrichtung bestätigen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/setup.dart:303
+msgid "Endlage oben ersetzen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/setup_runner.dart:1371
+msgid "Zurück"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/setup.dart:351
+msgid "Endlage unten ersetzen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/setup.dart:425
+msgid "3/3 Zwischenhalt"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/setup.dart:461
+msgid "Verweildauer (Sekunden)"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/setup.dart:471
+msgid "Verweildauer speichern"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/setup.dart:481
+msgid "Zwischenhalt setzen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/setup.dart:539
+msgid "Probealarm starten"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/setup.dart:510
+msgid "Stellen Sie sicher, dass der Verfahrbereich frei von Hindernissen ist."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/setup.dart:525
+msgid "Probealarm"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/widgets/parameters_config.dart:51
+msgid "Bitte überprüfen Sie Ihre Eingaben."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/widgets/parameters_config.dart:98
+msgid "Das Passwort muss 4 Zeichen lang sein."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/widgets/parameters_config.dart:109
+msgid "Bitte geben Sie einen Wert zwischen %s und %s ein."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/widgets/parameters_config.dart:114
+msgid "Bitte geben Sie einen Wert größer als %s ein."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/widgets/parameters_config.dart:116
+msgid "Bitte geben Sie einen Wert kleiner als %s ein."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/widgets/company_form.dart:107
+msgid "Keine Umlaute oder Sonderzeichen."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/widgets/company_form.dart:146
+msgid "Firma"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/widgets/company_form.dart:159
+msgid "Monteur"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/widgets/company_form.dart:179
+msgid "Bauvorhaben"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/widgets/company_form.dart:195
+msgid "Projektnummer"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/widgets/company_form.dart:211
+msgid "Montageort"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/widgets/company_form.dart:235
+msgid "Postleitzahl"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/widgets/company_form.dart:252
+msgid "Ort"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/widgets/company_form.dart:271
+msgid "Straße"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/widgets/company_form.dart:287
+msgid "Land"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/widgets/company_form.dart:305
+msgid "Kommentarfeld 1"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/widgets/company_form.dart:321
+msgid "Kommentarfeld 2"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/widgets/company_form.dart:337
+msgid "Kommentarfeld 3"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/maintenance.dart:98
+msgid "Wartungsintervall"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/maintenance.dart:124
+msgid "Monate"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/maintenance.dart:116
+msgid "Verbleibend"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/maintenance.dart:134
+msgid "Betriebsstunden"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/maintenance.dart:142
+msgid "Stunden"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/maintenance.dart:152
+msgid "Zyklen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/maintenance.dart:160
+msgid "St"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/maintenance.dart:282
+msgid "Wartungsintervall zurücksetzen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/maintenance.dart:175
+msgid "Sind Sie sicher, dass Sie das Wartungsintervall zurücksetzen möchten?"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/maintenance.dart:200
+msgid "Zyklen zurücksetzen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/maintenance.dart:192
+msgid "Sind Sie sicher, dass Sie den Zyklenzähler zurücksetzen möchten?"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/maintenance.dart:213
+msgid "Wartung durchführen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/maintenance.dart:220
+msgid "Messung Schließgeschwindigkeit"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/maintenance.dart:230
+msgid "Fehlerspeicher Ausgabe"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/maintenance.dart:240
+msgid "Relaistest"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/maintenance.dart:250
+msgid "Bremsentest"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/maintenance.dart:264
+msgid "PDF Wartungsprotokoll erzeugen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/xcf/maintenance.dart:272
+msgid "CSV Wartungsprotokoll erzeugen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/settings.dart:278
+msgid "%s Uhr"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/timecontrol.dart:77
+msgid "Bitte schließen Sie die Einrichtung vollständig ab."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/control.dart:200
+msgid "Deaktivieren"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/sun_protection.dart:127
+msgid "Sonne (Fassade)"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/sun_protection.dart:145
+msgid "Sonne (Fenster)"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:18
+msgid "Regen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/control.dart:429
+msgid ""
+"Hinweis: Manuelle oder automatische Fahrbefehle im aktivierten "
+"Sonnenschutzbetrieb führen zu einer Unterbrechung der Automatik bis der "
+"nächste Schwellwert über- oder unterschritten wird."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/setup_runner.dart:16
+msgid "Einrichtungsassistent"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/timecontrol.dart:38
+msgid ""
+"Möchten Sie den Einrichtungsassistenten starten? Hierdurch wird Ihre "
+"Timecontrol zunächst zurückgesetzt!"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/simple_view.dart:96
+msgid "Verbindung trennen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/simple_view.dart:97
+msgid "Möchten Sie die Bluetooth-Verbindung wirklich trennen?"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/clocks.dart:159
+msgid "Schaltzeiten"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/settings.dart:158
+msgid "System"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/information.dart:89
+msgid "Informationen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/simple_view.dart:78
+msgid "Testmodus"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/simple_view.dart:79
+msgid "Der Testmodus ist jetzt aktiv."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/simple_view.dart:83
+msgid "Testmodus aktivieren"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/setup_runner.dart:137
+msgid "Herzlich Willkommen zur Ersteinrichtung ihres Becker-Antriebe-Produktes!"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/setup_runner.dart:150
+msgid ""
+"In den nächsten Schritten werden wir Sie durch die Einrichtung Ihrer neuen "
+"Steuerung führen."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/setup_runner.dart:193
+msgid "Welches Produkt ist an Ihre Steuerung angeschlossen?"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:197
+msgid "Rollladen / Screen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:198
+msgid "Markise"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/setup_runner.dart:337
+msgid ""
+"Das Rollladen-Gewicht hat Einfluß auf die Genauigkeit der Positionsanfahrt "
+"und der Zwischenpositionen. Bitte wählen Sie das verbaute Material:"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/setup_runner.dart:363
+msgid "Aluminium"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/setup_runner.dart:390
+msgid "Kunststoff"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/setup_runner.dart:417
+msgid "Holz / Stahl"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/setup_runner.dart:444
+msgid "Screen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/setup_runner.dart:471
+msgid "Screen mit Endleiste"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/setup_runner.dart:547
+msgid "Untere Endlage"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/setup_runner.dart:552
+msgid ""
+"Fahren Sie Ihren Rollladen oder Screen in die untere Endlage und drücken "
+"Sie auf \"Weiter\"."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/setup_runner.dart:553
+msgid "Fahren Sie Ihre Jalousie untere Endlage und drücken Sie auf \"Weiter\"."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/setup_runner.dart:554
+msgid ""
+"Fahren Sie Ihre Markise in die komplett geöffnete Position (ausgefahren) "
+"und drücken Sie auf \"Weiter\"."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/setup_runner.dart:647
+msgid "Wendungsposition"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/setup_runner.dart:652
+msgid ""
+"Fahren Sie die Jalousie in AUF-Richtung, bis die maximale Wendung erreicht "
+"ist und drücken Sie auf \"Weiter\"."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/setup_runner.dart:736
+msgid "Obere Endlage"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/setup_runner.dart:741
+msgid ""
+"Fahren Sie Ihren Rollladen oder Screen in die obere Endlage und drücken Sie "
+"anschließend auf \"Weiter\"."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/setup_runner.dart:742
+msgid ""
+"Fahren Sie Ihre Jalousie in die obere Endlage und drücken Sie anschließend "
+"auf \"Weiter\"."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/setup_runner.dart:743
+msgid ""
+"Fahren Sie Ihre Markise in komplett geschlossene Position (eingefahren) und "
+"drücken Sie anschließend auf \"Weiter\"."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/setup_runner.dart:821
+msgid ""
+"Fahren Sie Ihren Rollladen oder Screen in die gewünschte "
+"Beschattungsposition / Zwischenposition 2 und drücken Sie auf \"Weiter\"."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/setup_runner.dart:822
+msgid ""
+"Fahren Sie Ihre Jalousie in die gewünschte Beschattungsposition / "
+"Zwischenposition 2 und drücken Sie auf \"Weiter\"."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/setup_runner.dart:823
+msgid ""
+"Fahren Sie Ihre Markise in die gewünschte Beschattungsposition / "
+"Zwischenposition 2 und drücken Sie auf \"Weiter\"."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/setup_runner.dart:1384
+msgid "Später"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/setup_runner.dart:911
+msgid ""
+"Fahren Sie Ihren Rollladen oder Screen jetzt in die gewünschte "
+"Lüftungsposition / Zwischenposition 1 und drücken Sie auf \"Weiter\"."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/setup_runner.dart:912
+msgid ""
+"Fahren Sie Ihre Jalousie jetzt in die gewünschte Lüftungsposition / "
+"Zwischenposition 1 und drücken Sie auf \"Weiter\"."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/setup_runner.dart:913
+msgid ""
+"Fahren Sie Ihre Markise jetzt in die gewünschte Lüftungsposition / "
+"Zwischenposition 1 und drücken Sie auf \"Weiter\"."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/setup_runner.dart:1042
+msgid "Voreinstellung"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/setup_runner.dart:1323
+msgid "Einstellungen werden übertragen."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/setup_runner.dart:1047
+msgid ""
+"Verwenden Sie eine der angebotenen Automatisierungsvorlagen oder "
+"konfigurieren Sie diese später individuell."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/presets.dart:58
+msgid "Beschattungsautomatik"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/presets.dart:77
+msgid "Dauerbeschattung"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/presets.dart:98
+msgid "Wohnraum"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/presets.dart:117
+msgid "Schlafraum"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/presets.dart:136
+msgid "Astrofunktion"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/location_ensurer.dart:171
+msgid "Astro & Standort"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/setup_runner.dart:1347
+msgid ""
+"Ihr Standort konnte nicht ermittelt werden. Stellen Sie sicher, dass Ihr "
+"Telefon über aktives GPS oder WLAN verfügt."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/setup_runner.dart:1348
+msgid ""
+"Zur Berechnung der Astro-Funktion benötigt die App einmalig Zugriff auf "
+"Ihren Standort."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/setup_runner.dart:1355
+msgid "Einstellungen öffnen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/setup_runner.dart:1442
+msgid ""
+"Die Inbetriebnahme ist abgeschlossen und Ihre Steuerung ist eingerichtet. "
+"Anpassungen können Sie später jederzeit im entsprechenden Menüpunkt "
+"vornehmen."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/setup_runner.dart:1444
+msgid ""
+"Die Zwischenpositionen sind eingerichtet. Anpassungen können Sie später "
+"jederzeit im entsprechenden Menüpunkt vornehmen."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/ota/alert.dart:96
+msgid "Fertig"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/clock.dart:168
+msgid "Position"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/slider_alert.dart:82
+msgid "Position (Prozent)"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/slider_alert.dart:112
+msgid "Wendung (Prozent)"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/alerts/slider_alert.dart:154
+msgid "Übernehmen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/sun_protection.dart:94
+msgid "Sensoren sind für dieses Gerät nicht konfiguriert."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/sun_protection.dart:173
+msgid "Sonnensensor"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/sun_protection.dart:177
+msgid "Schwellwert Sonne ausfahren"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/sun_protection.dart:201
+msgid "Schwellwert Sonne einfahren"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/sun_protection.dart:224
+msgid "Ausfahrverzögerung Sonne (Min)"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/sun_protection.dart:240
+msgid "Einfahrverzögerung Sonne (Min)"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/sun_protection.dart:254
+msgid "Schwellwert Dämmerung"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:268
+msgid "Windsensor"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/sun_protection.dart:285
+msgid "Schwellwert Wind"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/ota/view.dart:756
+msgid "Version"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/information.dart:110
+msgid "Erstinbetriebnahme"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/information.dart:122
+msgid "Relais Zyklen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/information.dart:133
+msgid "Fahrzeit gesamt"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/clocks.dart:44
+msgid "Überschneidende Schaltzeiten"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/clock.dart:71
+msgid "Es existiert bereits eine Uhr mit dieser Schaltzeit!"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/clocks.dart:54
+msgid "Schaltzeit ohne Tage"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/clocks.dart:55
+msgid ""
+"Schaltzeiten ohne konfigurierte Tage werden entfernt.\n"
+"Wollen Sie dennoch fortfahren?"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/clocks.dart:196
+msgid "Schaltzeit %s"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/clocks.dart:200
+msgid "Schaltzeit löschen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/clocks.dart:201
+msgid "Soll die Schaltzeit wirklich gelöscht werden?"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/clocks.dart:299
+msgid "Alle Schaltzeiten löschen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/clocks.dart:285
+msgid "Sollen wirklich alle Schaltzeiten gelöscht werden?"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/clocks.dart:290
+msgid "Schaltzeiten werden gelöscht"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/location_ensurer.dart:175
+msgid "Ihr Standort konnte nicht ermittelt werden!"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/location_ensurer.dart:177
+msgid "Stellen Sie sicher, dass die Ermittlung der Standortdaten aktiviert ist."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/location_ensurer.dart:185
+msgid "Ihr Standort wird ermittelt"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/location_ensurer.dart:197
+msgid "Der Sonnenverlauf für Ihren Standort wird berechnet"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/location_ensurer.dart:233
+msgid "Standort ermitteln"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/presets.dart:35
+msgid "Neue Schaltzeit anlegen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/presets.dart:41
+msgid ""
+"Es wurden noch keine Schaltzeiten angelegt. Konfigurieren Sie Ihre "
+"Schaltzeit individuell, oder verwenden Sie eine Vorlage"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/clock.dart:80
+msgid "Tage"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/clock.dart:91
+msgid "Mo"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/clock.dart:95
+msgid "Di"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/clock.dart:99
+msgid "Mi"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/clock.dart:103
+msgid "Do"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/clock.dart:107
+msgid "Fr"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/clock.dart:111
+msgid "Sa"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/clock.dart:115
+msgid "So"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/clock.dart:125
+msgid "Aktion"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/clock.dart:140
+msgid "Schliessen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/clock.dart:154
+msgid "Öffnen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/clock.dart:178
+msgid "Wendung"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/clock.dart:191
+msgid "ZP2 / Beschattungsposition"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/clock.dart:197
+msgid "ZP1 / Lüftungsposition"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/clock.dart:203
+msgid "Sonnenschutzautomatik ein"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/clock.dart:209
+msgid "Sonnenschutzautomatik aus"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/clock.dart:218
+msgid "Wenn"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/clock.dart:231
+msgid "Uhrzeit"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/clock.dart:239
+msgid "Astro Abends"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/clock.dart:247
+msgid "Astro Morgens"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/clock.dart:276
+msgid "Verschiebung"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/clock.dart:277
+msgid "(+/- 60 Minuten)"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/clock.dart:330
+msgid "Sperrzeit"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/clock.dart:362
+msgid "Schaltzeit Löschen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/astro.dart:101
+msgid "Sonnenuntergang (%s)"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/astro.dart:103
+msgid "Sonnenuntergang (%s Uhr)"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/astro.dart:162
+msgid "Jan."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/astro.dart:163
+msgid "Sommerzeit"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/astro.dart:164
+msgid "Dez."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/astro.dart:201
+msgid "Sonnenaufgang (%s)"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/widgets/astro.dart:203
+msgid "Sonnenaufgang (%s Uhr)"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/settings.dart:182
+msgid "Name"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/settings.dart:220
+msgid "Der Name darf maximal 21 Zeichen lang sein"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/settings.dart:250
+msgid "Automatische Sommerzeit"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/settings.dart:268
+msgid "PM / AM"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/settings.dart:307
+msgid "Betriebsart & Einstellungen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:195
+msgid "Betriebsart:"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:209
+msgid "Betriebsart ändern"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:210
+msgid ""
+"Ein Wechsel der Betriebsart führt dazu, dass das Gerät auf "
+"Werkseinstellungen zurückgesetzt wird - danach wird der "
+"Inbetriebnahmeassistent erneut ausgeführt."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/settings.dart:369
+msgid ""
+"Erlaubt das Abspeichern der aktuellen Uhrzeit als Schaltzeit durch langes "
+"Drücken der entsprechenden Fahrtaste (>6s)."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/settings.dart:375
+msgid "Urlaubs-Funktion"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/settings.dart:391
+msgid ""
+"Verschiebt die programmierten Schaltzeiten zufällig im Bereich von 30 "
+"Minuten. Soll eine Anwesenheit simulieren."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/settings.dart:409
+msgid "Sensoren & Eingänge"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:238
+msgid "Lichtsensor außen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:253
+msgid "Lichtsensor innen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:323
+msgid "Sensoren zurücksetzen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/settings.dart:488
+msgid "Möchten Sie wirklich alle Sensoren zurücksetzen?"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:344
+msgid "Externe Eingänge"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:367
+msgid "Kurzer Tastendruck: \n"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:368
+msgid "Stoppt die Bewegung oder führt eine Wendung aus."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:376
+msgid "Langer Tastendruck: \n"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/settings.dart:543
+msgid "Startet einen Fahrbefehl"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:385
+msgid "Doppeltipp: \n"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:386
+msgid "Fährt zur entsprechenden Zwischenposition"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:394
+msgid "Signal >5 Sekunden: \n"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:395
+msgid ""
+"Fahren und Sperren in der entsprechenden Richtung (Automatiken werden "
+"deaktiviert)"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:408
+msgid "Zusätzliche Sensoren"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:431
+msgid "Regensensor-Eingang: \n"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:432
+msgid "Startet eine Fahrt und sperrt die Bedienung (Automatiken bleiben aktiv)"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:440
+msgid "Innentemperatur-Sensor: \n"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:441
+msgid ""
+"Die Sonnenautomatik wird erst ausgelöst, wenn die am Sensor eingestellte "
+"Temperatur erreicht ist."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:459
+msgid "Laufzeiten"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:482
+msgid "Wendezeit"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/settings.dart:686
+msgid "Lernfahrt"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/settings.dart:818
+msgid "speichern"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/settings.dart:732
+msgid "Korrekturen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/settings.dart:740
+msgid "Anlaufkorrektur"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/settings.dart:762
+msgid "Auf / Ab %"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/settings.dart:766
+msgid "Prozent"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/settings.dart:784
+msgid "Reaktionszeit"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/settings.dart:954
+msgid "Reset"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/settings.dart:955
+msgid "Soll wirklich ein Reset durchgeführt werden?"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:51
+msgid "Ungültige Eingabe"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:54
+msgid "Bitte geben Sie gültige Werte ein:"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:55
+msgid "Laufzeit: 0 - 360 Sekunden"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:56
+msgid "Wendezeit: 0 - 25,5 Sekunden"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:175
+msgid "Betriebsart / Laufzeit"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:217
+msgid "Ändern"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:230
+msgid "Sensoren"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:335
+msgid "Eingänge"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:377
+msgid "Statet einen Fahrbefehl"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/timecontrol/operation_mode.dart:516
+msgid "Zusatzfunktionen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/download/provider.dart:155
+msgid "Firmware-Updates werden geladen..."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/download/provider.dart:211
+msgid "Aktualisiere Hilfedateien"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/download/download.dart:52
+msgid "Monteurhandbuch"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/ota/view.dart:548
+msgid "Bitte aktualisieren Sie zuerst die Firmware Ihres USB-Sticks"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/ota/view.dart:588
+msgid "Keine Aktualisierung verfügbar"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/ota/view.dart:598
+msgid "Updatedatei auswählen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/ota/view.dart:622
+msgid "Das Update ist für dieses Gerät geeignet."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/ota/view.dart:635
+msgid "Das Update wurde durch die Becker-Antriebe GmbH signiert."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/ota/view.dart:649
+msgid "Das Update ist nicht signiert."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/ota/view.dart:665
+msgid "Die Kompatibilitätsprüfung für dieses Update ist deaktiviert!"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/ota/view.dart:722
+msgid "Konnte EEPROM nicht lesen. Bitte versuchen Sie es erneut."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/ota/view.dart:723
+msgid "Die ausgewählte Datei ist ungültig."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/ota/view.dart:724
+msgid "Das ausgewählte Update ist nicht mit diesem Gerät kompatibel."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/ota/view.dart:725
+msgid "Das ausgewählte Update verfügt über keine Signatur."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/ota/view.dart:726
+msgid "Die ausgewählte Datei beinhaltet kein Update für Ihr Gerät."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/ota/view.dart:727
+msgid "Das ausgewählte Update verfügt über keine gültige Signatur."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/ota/view.dart:765
+msgid "ArtNr"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/ota/alert.dart:55
+msgid "Die Firmware wurde aktualisiert."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/ota/alert.dart:57
+msgid "Hinweis: Das Gerät ist unter Umständen mehrere Minuten nicht erreichbar."
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/ota/alert.dart:75
+msgid "Sende Paket %s von %s"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:11
+msgid "wind"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:12
+msgid "sun"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:13
+msgid "rain"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:14
+msgid "frost"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:15
+msgid "temp"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:16
+msgid "tempOut"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:17
+msgid "battery"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:19
+msgid "Kein Regen"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:20
+msgid "Frost"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:21
+msgid "Kein Frost"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:22
+msgid "EASY"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:23
+msgid "EASY_SWITCH"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:24
+msgid "CLOCK"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:25
+msgid "CENTRAL_PRIO"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:26
+msgid "ONE_TWO"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:27
+msgid "LIGHT_DIM"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:28
+msgid "MARKI"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:29
+msgid "JALOUSIE"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:30
+msgid "MARKI_SENS"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:31
+msgid "MARKI_SENS_SEC"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:32
+msgid "JAL_SENS"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:33
+msgid "JAL_SENS_SEC"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:34
+msgid "ROLLO_SENS"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:35
+msgid "INROOM_SENS"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:36
+msgid "RES0_SENS"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:37
+msgid "RES1_SENS"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:38
+msgid "UNI_VCACTOR"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:39
+msgid "ROLLO_DRIVE"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:40
+msgid "BLDC"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:41
+msgid "SUN_DRIVE"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:42
+msgid "SUN_DRIVE_BLDC"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:43
+msgid "SUN_DRIVE_JAL"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:44
+msgid "SUN_DRIVE_ZIP"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:45
+msgid "SUN_DRIVE_ZIP_BLDC"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:46
+msgid "SUN_DRIVE_SCREEN"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:47
+msgid "SUN_DRIVE_SCREEN_BLDC"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:48
+msgid "SUN_DRIVE_SAIL"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:49
+msgid "SUN_DRIVE_SAIL_BLDC"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:50
+msgid "ACT_GLASS_DIM"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:51
+msgid "ACT_SWITCH_DIM"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:52
+msgid "SUN_DRIVE_VOLANT"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:53
+msgid "ACT_IMPULSE_LIGHT"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:54
+msgid "ACT_WAY_LIGHT"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:55
+msgid "ACT_IMPULSE_SHUTTER"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:56
+msgid "ACT_DOOR"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:57
+msgid "PAR_ROLLO"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:58
+msgid "PAR_BLDC"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:59
+msgid "PAR_MARKI"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:60
+msgid "PAR_MARKI_INS"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:61
+msgid "PAR_JAL"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:62
+msgid "PAR_ZIP"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:63
+msgid "PAR_CLOCK"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:64
+msgid "PAR_MARKI_SENS"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:65
+msgid "PAR_SUN_SAIL"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:66
+msgid "PAR_JALOUSIE"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:67
+msgid "PAR_WINDOW"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:68
+msgid "PAR_ACT_GLAS_DIM"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:69
+msgid "PAR_ACT_SWITCH_DIM"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:70
+msgid "SERIAL_TEST"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:71
+msgid "SERVICE"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:72
+msgid "PARAMTOOL"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:73
+msgid "REPEATER"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:74
+msgid "CENTRAL0"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:75
+msgid "CENTRAL1"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:76
+msgid "CENTRAL2"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:77
+msgid "BOOTLOADER"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:78
+msgid "RES0"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:79
+msgid "RES1"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:80
+msgid "RES2"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:81
+msgid "RES3"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:82
+msgid "RES4"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:83
+msgid "RES5"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:84
+msgid "RES6"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:85
+msgid "SUN"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:86
+msgid "SUN_DUSK"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:87
+msgid "SUN_DUSK_WIND"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:88
+msgid "SUN_DUSK_WIND_HUM_TEMPOUT"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:89
+msgid "SUN_DUSK_TEMPIN"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:90
+msgid "SUN_DUSK_TEMPOUT"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:91
+msgid "SUN_DUSK_TEMPIN_PPM"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:92
+msgid "WIND"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:93
+msgid "WIND_HUM_TEMPOUT"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:94
+msgid "HUM_TEMPOUT"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:95
+msgid "TEMPOUT"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:96
+msgid "TEMPIN"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:97
+msgid "PPM"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:98
+msgid "Standardbetrieb"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:99
+msgid "Flüsterbetrieb"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/i18n/mac_format.dart:100
+msgid "Dynamikbetrieb"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/gateway/alerts/login.dart:11
+msgid "Login"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/gateway/alerts/login.dart:252
+msgid "Ungültige E-Mail oder Passwort"
+msgstr ""
+
+#: /Users/Maik/Projekte/Installationstool CentronicPLUS/installation_tool_centronic_plus/centronic_plus_tool/lib/features/gateway/alerts/login.dart:281
+msgid "Anmelden"
+msgstr ""

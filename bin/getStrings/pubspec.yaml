@@ -1,0 +1,21 @@
+name: getstrings
+description: Extract and import i18n strings
+version: 1.0.0
+# homepage: https://www.example.com
+
+environment:
+  sdk: ">=3.0.6 <4.0.0"
+
+
+# dependencies:
+#   path: ^1.8.0
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.16.0
+dependencies:
+  equatable: ^2.0.5
+  gettext_parser: ^0.2.0
+  analyzer: ^6.0.0
+  args: ^2.4.2
+  

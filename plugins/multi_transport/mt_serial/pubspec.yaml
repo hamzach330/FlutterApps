@@ -1,0 +1,36 @@
+name: mt_serial
+description: Transport Interface for Windows, MacOS and Linux.
+repository: https://github.com/DominikStarke/
+version: 0.0.1
+publish_to: none
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+  flutter: ">=3.3.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  hex: ^0.2.0
+  collection: ^1.17.1
+
+  mt_interface:
+    path: ../mt_interface
+  flutter_libserialport:
+    git:
+      url: https://github.com/DominikStarke/flutter_libserialport.git
+      ref: 84dddc8
+  flutter_serial_communication: ^0.2.7
+
+flutter:
+  plugin:
+    platforms:
+      android:
+        dartPluginClass: MTAndroid
+      macos:
+        dartPluginClass: MTDesktop
+      windows:
+        dartPluginClass: MTDesktop
+      linux:
+        dartPluginClass: MTDesktop

@@ -1,0 +1,25 @@
+name: mod_gateway
+description: "A new Flutter plugin project."
+version: 0.0.1
+homepage:
+
+publish_to: 'none'
+
+environment:
+  sdk: ^3.7.2
+  flutter: '>=3.3.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  modules_common:
+    path: ../modules_common
+
+  mt_sock:
+    path: ../../plugins/multi_transport/mt_sock
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0

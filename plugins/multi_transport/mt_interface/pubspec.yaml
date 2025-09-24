@@ -1,0 +1,10 @@
+name: mt_interface
+description: A common platform interface for the multi_transport plugin.
+repository: https://github.com/DominikStarke/
+version: 0.0.1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  meta: ^1.11.0

@@ -1,0 +1,36 @@
+
+/* Class = "NSMenuItem"; title = "APP_NAME"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "APP_NAME";
+
+/* Class = "NSMenuItem"; title = "APP_NAME için Çıkış"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "APP_NAME için Çıkış";
+
+/* Class = "NSMenuItem"; title = "APP_NAME Hakkında"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "APP_NAME Hakkında";
+
+/* Class = "NSMenu"; title = "Ana Menü"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "Ana Menü";
+
+/* Class = "NSMenuItem"; title = "Tercihler…"; ObjectID = "BOF-NM-1cW"; */
+"BOF-NM-1cW.title" = "Tercihler…";
+
+/* Class = "NSMenuItem"; title = "Tümünü Göster"; ObjectID = "Kd2-mp-pUS"; */
+"Kd2-mp-pUS.title" = "Tümünü Göster";
+
+/* Class = "NSMenuItem"; title = "Hizmetler"; ObjectID = "NMo-om-nkz"; */
+"NMo-om-nkz.title" = "Hizmetler";
+
+/* Class = "NSMenuItem"; title = "APP_NAME Gizle"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "APP_NAME Gizle";
+
+/* Class = "NSWindow"; title = "APP_NAME"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "APP_NAME";
+
+/* Class = "NSMenuItem"; title = "Diğerlerini Gizle"; ObjectID = "Vdr-fp-XzO"; */
+"Vdr-fp-XzO.title" = "Diğerlerini Gizle";
+
+/* Class = "NSMenu"; title = "Hizmetler"; ObjectID = "hz9-B4-Xy5"; */
+"hz9-B4-Xy5.title" = "Hizmetler";
+
+/* Class = "NSMenu"; title = "APP_NAME"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "APP_NAME";

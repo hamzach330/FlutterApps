@@ -1,0 +1,37 @@
+name: service_app
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.6 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  ui_common:
+    path: ../plugins/ui_common/
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
+  # assets:
+  #   - assets/images/
+  #   - assets/images/devices/
+  #   - assets/images/sensor/
+  #   - assets/images/products/
+  #   - assets/locale/
+  fonts:
+    - family: SourceCodePro
+      fonts:
+        - asset: assets/fonts/SourceCodePro-Regular.ttf
+    - family: BeckerIcons
+      fonts:
+        - asset: assets/fonts/BeckerIcons.ttf

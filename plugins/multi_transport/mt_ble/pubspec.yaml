@@ -1,0 +1,35 @@
+name: mt_ble
+description: A common platform interface for the multi_transport plugin.
+repository: https://github.com/DominikStarke/
+version: 0.0.1
+publish_to: none
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+  flutter: ">=3.3.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_blue_plus: ^1.36.7
+  # win_ble: ^1.1.1
+  win_ble:
+    path: ../../win_ble/
+  collection: ^1.17.1
+  mt_interface:
+    path: ../mt_interface
+
+flutter:
+  plugin:
+    platforms:
+      macos:
+        dartPluginClass: MTBLE
+      ios:
+        dartPluginClass: MTBLE
+      android:
+        dartPluginClass: MTBLE
+      linux:
+        dartPluginClass: MTBLE
+      windows:
+        dartPluginClass: MTWinBLE

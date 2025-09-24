@@ -1,0 +1,123 @@
+{
+  "parser": "1.0",
+  "centronic_plus_tool": "1.1.11",
+  "centronic_plus": {
+    "ota": [
+      {
+        "upgrade_requirements": {
+          "min": "0.0.0",
+          "max": "3.0.0",
+          "exclude": "0.225.6"
+        },
+        "path": "files/centronic_plus/CP_DRV_RS_D51v_0225_06_20240216_F.ota.signed.zip",
+        "version": "0.225.6",
+        "release_date": "2024-02-28T08:00:00.000",
+        "article_id": "40247351720"
+      },
+      {
+        "upgrade_requirements": {
+          "min": "0.0.0",
+          "max": "3.0.0",
+          "exclude": "0.239.11"
+        },
+        "path": "files/centronic_plus/CPFM_PICO_0239_0B_20230714.ota.zip.signed.zip",
+        "version": "0.239.11",
+        "release_date": "2024-06-27T08:00:00.000",
+        "article_id": "49057350020"
+      },
+      {
+        "path": "files/centronic_plus/SC811PLUS_SC911PLUS_4036_735_020_0_D_v0-13-3.ota.zip.signed.zip",
+        "version": "0.13.3",
+        "release_date": "2024-11-19T08:00:00.000",
+        "article_id": "40367350200"
+      },
+      {
+        "path": "files/centronic_plus/VC421cp_4036_735_024_0_C_8-0.ota.signed.zip",
+        "version": "1.8.0",
+        "release_date": "2024-06-11T08:00:00.000",
+        "article_id": "40367350240"
+      },
+
+      {
+        "path": "files/centronic_plus/VC420cp_4036_735_005_0_I_v1-86-15.ota.signed.zip",
+        "version": "1.86.15",
+        "release_date": "2024-10-30T08:00:00.000",
+        "article_id": "40367350050"
+      },
+
+      {
+        "path": "files/centronic_plus/VC470cp_4036_735_014_0_H_v1-86-15.ota.signed.zip",
+        "version": "1.86.15",
+        "release_date": "2024-10-30T08:00:00.000",
+        "article_id": "40367350140"
+      },
+
+      {
+        "path": "files/centronic_plus/VC520cp_4036_735_013_0_G_v1-86-15.ota.signed.zip",
+        "version": "1.86.15",
+        "release_date": "2024-10-30T08:00:00.000",
+        "article_id": "40367350130"
+      },
+
+      {
+        "path": "files/centronic_plus/LC120cp_4036_735_015_0_G_v1-86-15.ota.signed.zip",
+        "version": "1.86.15",
+        "release_date": "2024-10-30T08:00:00.000",
+        "article_id": "40367350150"
+      },
+
+      {
+        "path": "files/centronic_plus/VC420Acp_4036_735_028_0_B_v1-86-15.ota.signed.zip",
+        "version": "1.86.15",
+        "release_date": "2024-10-30T08:00:00.000",
+        "article_id": "40367350280"
+      },
+
+      {
+        "upgrade_requirements": {
+          "min": "0.0.0",
+          "max": "0.18.0",
+          "exclude": "0.18.0"
+        },
+        "path": "files/centronic_plus/CPFM_EVO_0018_02_4905_735_003_0_E.ota.zip.signed.zip",
+        "version": "0.18.1",
+        "release_date": "2024-03-21T08:00:00.000",
+        "article_id": "49057350030"
+      }
+    ],
+
+    "stick": [
+      {
+        "path": "files/centronic_plus/CP_USB_Stick_BA-v170_REL.uf2",
+        "version": "1.7.0",
+        "release_date": "2024-04-23T15:54:00.000",
+        "pid": 48
+      },
+      {
+        "path": "files/centronic_plus/CP_USB_Stick_BA-v170_915REL.uf2",
+        "version": "1.7.0",
+        "release_date": "2024-04-23T15:54:00.000",
+        "pid": 50
+      }
+    ]
+  },
+  "documents": {
+    "installation_manual": {
+      "version": "1.8.1",
+      "files": {
+        "de": "files/installation_manual/mhb%20de.pdf",
+        "en": "files/installation_manual/mhb%20en.pdf",
+        "fr": "files/installation_manual/mhb%20fr.pdf",
+        "es": "files/installation_manual/mhb%20es.pdf",
+        "sv": "files/installation_manual/mhb%20sv.pdf",
+        "pl": "files/installation_manual/mhb%20pl.pdf",
+        "cs": "files/installation_manual/mhb%20cs.pdf",
+        "nl": "files/installation_manual/mhb%20nl.pdf",
+        "tr": "files/installation_manual/mhb%20en.pdf",
+        "hu": "files/installation_manual/mhb%20en.pdf",
+        "it": "files/installation_manual/mhb%20en.pdf"
+      }
+    }
+  },
+  "last_update": "2024-08-08 10:33:00.000"
+}

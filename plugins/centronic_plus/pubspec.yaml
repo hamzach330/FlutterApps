@@ -1,0 +1,16 @@
+name: centronic_plus_protocol
+description: Dart CentronicPLUS Bindings
+version: 0.0.2
+homepage:
+publish_to: none
+
+environment:
+  sdk: ">=3.0.6 <4.0.0"
+
+dependencies:
+  hex: ^0.2.0
+  collection: ^1.17.1
+  version: ^3.0.2
+  mt_interface:
+    path: ../multi_transport/mt_interface
+

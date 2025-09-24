@@ -1,0 +1,13 @@
+# Flutter-related
+**/Flutter/ephemeral/
+**/Pods/
+**/Pods/Pods.xcodeproj/
+**/Pods/Pods.xcodeproj/**
+
+# Reinclude the PODS project
+# !**/Pods/Pods.xcodeproj/
+# !**/Pods/Pods.xcodeproj/**
+
+# Xcode-related
+**/dgph
+**/xcuserdata/

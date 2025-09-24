@@ -1,0 +1,33 @@
+name: ui_common
+description: UI Elements shared between Becker Projects
+version: 0.0.2
+publish_to: "none"
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"  # bump if your Flutter/Dart supports it
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  plugin_platform_interface: ^2.0.2
+  provider: ^6.0.5
+  expandable: ^5.0.1
+  intl: ^0.20.2
+  i18n_extension: ^15.0.4
+  gettext_parser: ^0.2.0
+  go_router: ^16.2.0
+  package_info_plus: ^8.1.2
+  path_provider: ^2.1.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0  # updated for Dart 3
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/locale/   # fixed indentation

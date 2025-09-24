@@ -1,0 +1,56 @@
+# ----------------------------
+# macOS system files
+# ----------------------------
+*/.DS_Store
+.DS_Store
+.DS_Store?
+
+# ----------------------------
+# Dart & Flutter build artifacts
+# ----------------------------
+.dart_tool/
+.packages
+.mason
+.flutter-plugins
+.flutter-plugins-dependencies
+coverage/
+build/
+doc/
+
+# ----------------------------
+# IDE & Editor settings
+# ----------------------------
+.idea/
+.vscode/**
+**/.cxx
+
+# ----------------------------
+# FVM (Flutter Version Manager)
+# ----------------------------
+.fvm/
+.fvmrc   # Exclude local Flutter version config
+
+# ----------------------------
+# CocoaPods (iOS & macOS)
+# ----------------------------
+app/macos/Podfile.lock
+centronic_plus_tool/macos/Podfile.lock
+install_tool/macos/Podfile.lock
+
+# ----------------------------
+# Xcode project files
+# ----------------------------
+centronic_plus_tool/macos/Pods/Pods.xcodeproj/project.pbxproj
+
+# ----------------------------
+# Package lock files (should not be committed)
+# ----------------------------
+centronic_plus_tool/pubspec.lock
+install_tool/pubspec.lock
+modules/mod_evo/example/pubspec.lock
+modules/mod_gateway/example/pubspec.lock
+modules/mod_timecontrol/example/pubspec.lock
+modules/mod_update_file/example/pubspec.lock
+modules/mod_xcf/example/pubspec.lock
+plugins/ui_common/example/pubspec.lock
+service_app/pubspec.lock

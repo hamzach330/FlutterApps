@@ -1,0 +1,57 @@
+| String                                                                | Proposed Key                                                                                                                |
+|:----------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------|
+| Keine Umlaute oder Sonderzeichen.                                     | keine_umlaute_oder_sonderzeichen                                                                                            |
+| Maximal $maxLen Zeichen                                               | maximal_{maxlen}_zeichen                                                                                                    |
+| Mindestens $minLen Zeichen                                            | mindestens_{minlen}_zeichen                                                                                                 |
+| Datei gespeichert: $fileName                                          | datei_gespeichert_{filename}                                                                                                |
+| RSSI:                                                                 | rssi                                                                                                                        |
+| Exportieren                                                           | exportieren                                                                                                                 |
+| Verbleibend                                                           | verbleibend                                                                                                                 |
+| Betriebsstunden                                                       | betriebsstunden                                                                                                             |
+| Stunden                                                               | stunden                                                                                                                     |
+| Zyklen                                                                | zyklen                                                                                                                      |
+| St                                                                    | st                                                                                                                          |
+| Sind Sie sicher, dass Sie das Wartungsintervall zurücksetzen möchten? | sind_sie_sicher_dass_sie_das_wartungsintervall_zura14cksetzen_machten                                                       |
+| Befehl Stopp zu lange belegt                                          | befehl_stopp_zu_lange_belegt                                                                                                |
+| Fahrbefehl Schließen zu lange belegt                                  | fahrbefehl_schlieaen_zu_lange_belegt                                                                                        |
+| Fahrbefehl Öffnen zu lange belegt                                     | fahrbefehl_affnen_zu_lange_belegt                                                                                           |
+| Hindernis blockiert Fahrt                                             | hindernis_blockiert_fahrt                                                                                                   |
+| Vorhandene Centronic PLUS Geräte                                      | vorhandene_centronic_plus_gerate                                                                                            |
+| Informationen werden gelesen…                                         | informationen_werden_gelesen_es_stehen_eventuell_nicht_alle_funktionen_zur_verfa14gung_oder_die_bedienung_ist_eingeschrankt |
+| Funkleiste konnte nicht aktiviert werden                              | funkleiste_konnte_nicht_aktiviert_werden                                                                                    |
+| Störung des Vorendschalters für die Lichtschranke                     | starung_des_vorendschalters_fa14r_die_lichtschranke                                                                         |
+| Ablauf des Wartungsintervalls                                         | ablauf_des_wartungsintervalls                                                                                               |
+| Funktaster Kanal 1 zu lange belegt                                    | funktaster_kanal_1_zu_lange_belegt                                                                                          |
+| Bitte geben Sie einen Wert kleiner als %s ein.                        | bitte_geben_sie_einen_wert_kleiner_als_s_ein                                                                                |
+| Artikelnummer                                                         | artikelnummer                                                                                                               |
+| Bus-Version                                                           | busversion                                                                                                                  |
+| Zusatzkarte                                                           | zusatzkarte                                                                                                                 |
+| Zyklus                                                                | zyklus                                                                                                                      |
+| Beschreibung                                                          | beschreibung                                                                                                                |
+| Ursache                                                               | ursache                                                                                                                     |
+| Frezquenz                                                             | frezquenz                                                                                                                   |
+| TEL_SET_INPUT FE 1                                                    | telsetinput_fe_1                                                                                                            |
+| TEL_SET_INPUT FE 2                                                    | telsetinput_fe_2                                                                                                            |
+| TEL_SET_INPUT SE 1                                                    | telsetinput_se_1                                                                                                            |
+| TEL_SET_INPUT DI_PROG                                                 | telsetinput_diprog                                                                                                          |
+| Wartungsintervall                                                     | wartungsintervall                                                                                                           |
+| Monate                                                                | monate                                                                                                                      |
+| Schaltleiste SE2 ist vor der ZU-Fahrt geschaltet                      | schaltleiste_se2_ist_vor_der_zufahrt_geschaltet                                                                             |
+| Negativer Test des Eingangs SE2                                       | negativer_test_des_eingangs_se2                                                                                             |
+| Kein Schaltimpuls … fehlgeschlagen (DW)                               | kein_schaltimpuls_der_schaltleiste_in_der_unteren_endlage_a_testung_fehlgeschlagen_dw                                       |
+| Meine Geräte                                                          | meine_gerate                                                                                                                |
+| Empfänger                                                             | empfanger                                                                                                                   |
+| Auswahl                                                               | auswahl                                                                                                                     |
+| Möchten Sie %s wirklich löschen?                                      | machten_sie_s_wirklich_laschen                                                                                              |
+| Gruppe löschen                                                        | gruppe_laschen                                                                                                              |
+| Die Einstellungen wurden erfolgreich gespeichert.                     | die_einstellungen_wurden_erfolgreich_gespeichert                                                                            |
+| Möchten Sie diese Uhr wirklich löschen?                               | machten_sie_diese_uhr_wirklich_laschen                                                                                      |
+| Keine Geräte ausgewählt                                               | keine_gerate_ausgewahlt                                                                                                     |
+| Einstellungen gespeichert                                             | einstellungen_gespeichert                                                                                                   |
+| Bremsentest                                                           | bremsentest                                                                                                                 |
+| PDF Wartungsprotokoll erzeugen                                        | pdf_wartungsprotokoll_erzeugen                                                                                              |
+| CSV Wartungsprotokoll erzeugen                                        | csv_wartungsprotokoll_erzeugen                                                                                              |
+| Firma                                                                 | firma                                                                                                                       |
+| Monteur                                                               | monteur                                                                                                                     |
+| Bauvorhaben                                                           | bauvorhaben                                                                                                                 |
+| Projektnummer                                                         | projektnummer                                                                                                               |

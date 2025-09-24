@@ -1,0 +1,21 @@
+name: multi_transport
+description: "Platform independent transport layer"
+version: 0.0.1
+homepage:
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+  flutter: ">=3.3.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  mt_interface:
+    path: ./mt_interface
+  mt_ble:
+    path: ./mt_ble
+  mt_serial:
+    path: ./mt_serial
+  mt_sock:
+    path: ./mt_sock

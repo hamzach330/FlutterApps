@@ -1,0 +1,42 @@
+name: mt_sock
+description: "TCP Socket Transport for MultiTransport"
+version: 0.0.1
+homepage:
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+  flutter: ">=3.3.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  hex: ^0.2.0
+  collection: ^1.17.1
+
+  mt_interface:
+    path: ../mt_interface
+  bonsoir: ^5.1.3
+  # multicast_dns: ^0.3.2+6
+  # web_socket_channel: ^3.0.0
+  http: ^1.2.2
+
+flutter:
+  plugin:
+    platforms:
+      macos:
+        dartPluginClass: MTWebSocket
+        fileName: mt_sock.dart
+      ios:
+        dartPluginClass: MTWebSocket
+        fileName: mt_sock.dart
+      android:
+        dartPluginClass: MTWebSocket
+        fileName: mt_sock.dart
+      windows:
+        dartPluginClass: MTSocket
+        fileName: mt_sock.dart
+      web:
+        pluginClass: MTWebSocket
+        fileName: mt_websock.dart
+        

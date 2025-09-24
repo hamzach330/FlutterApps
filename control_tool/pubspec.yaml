@@ -1,0 +1,70 @@
+name: control_tool
+description: Control Tool
+
+publish_to: 'none'
+version: 0.0.5+5
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  flutter_localizations:
+    sdk: flutter
+
+  modules_common:
+    path: ../modules/modules_common
+
+  mod_cen_plus:
+    path: ../modules/mod_cen_plus
+  
+  mod_cc_eleven:
+    path: ../modules/mod_cc_eleven
+  
+  mod_evo:
+    path: ../modules/mod_evo
+
+  mod_timecontrol:
+    path: ../modules/mod_timecontrol
+
+  mod_update_file:
+    path: ../modules/mod_update_file
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+  msix: ^3.16.8
+  json_serializable: ^6.8.0
+  
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/evo/
+    - assets/timecontrol/
+    - assets/images/devices/
+    - assets/images/sensor/
+    - assets/images/products/
+    
+    - assets/icons/
+    - assets/xcf/
+  fonts:
+    - family: SourceCodePro
+      fonts:
+        - asset: assets/fonts/SourceCodePro-Regular.ttf
+    - family: BeckerIcons
+      fonts:
+        - asset: assets/fonts/BeckerIcons.ttf
+
+msix_config:
+  display_name: Control Tool
+  publisher: CN=28E32827-A405-4EDB-B685-8F2A384CA29B
+  publisher_display_name: Becker-Antriebe GmbH
+  identity_name: BeckerAntriebeGmbH.CentronicPLUSTool
+  msix_version: 1.3.0.0
+  logo_path: C:\Users\stardomi\Projekte\installation_tool_centronic_plus\control_tool\windows\runner\resources\app_icon.ico
+  capabilities: usb
+  store: true
