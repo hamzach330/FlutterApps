@@ -1,10 +1,5 @@
 # Becker Tool
 
-[![pipeline status](https://gitlab.becker-antriebe.com/entwicklung_elektronik/centronic_plus_installation_tool/badges/master/pipeline.svg)](https://gitlab.becker-antriebe.com/entwicklung_elektronik/centronic_plus_installation_tool/-/commits/master) 
-
-[![coverage report](https://gitlab.becker-antriebe.com/entwicklung_elektronik/centronic_plus_installation_tool/badges/master/coverage.svg)](https://gitlab.becker-antriebe.com/entwicklung_elektronik/centronic_plus_installation_tool/-/commits/master) 
-
-[![Latest Release](https://gitlab.becker-antriebe.com/entwicklung_elektronik/centronic_plus_installation_tool/-/badges/release.svg)](https://gitlab.becker-antriebe.com/entwicklung_elektronik/centronic_plus_installation_tool/-/releases) 
 
 ## Overview
 
@@ -35,147 +30,158 @@ flutter run -d (windows|macos|android) --verbose (--release)
 
 ## Module Documentation
 
+Each module in the Becker ecosystem has its own detailed README file with comprehensive documentation. Click on the module name to view detailed documentation.
+
 ---
 
-### **CONTROL TOOL**
+### **CONTROL TOOL** 📱
+**[📖 Detailed Documentation](control_tool/README.md)**
 
 | Field | Description |
 | :--- | :--- |
 | **Module Path** | `control_tool/` |
 | **Type** | App |
-| **Purpose/Goal** | A comprehensive control application for managing Becker motor systems including Centronic PLUS, EVO, Timecontrol, and CC Eleven devices. |
+| **Purpose/Goal** | A comprehensive control application (branded as "Be:You") for managing Becker motor systems including Centronic PLUS, EVO, Timecontrol, and CC Eleven devices. |
 
 **Key Features/Functionality:**
-* Provides unified interface for controlling multiple Becker motor protocols
-* Real-time device monitoring and configuration management
-* Bluetooth Low Energy connectivity for wireless device control
-* Device discovery and pairing capabilities
+* **Multi-Protocol Support**: Unified interface for Centronic PLUS, EVO, Timecontrol, and CC Eleven protocols
+* **Real-time Monitoring**: Live device status, sensor readings, and performance metrics
+* **Cross-Platform**: Native apps for Android, Windows, macOS, and Linux
+* **Professional Features**: Device discovery, configuration management, and OTA firmware updates
 
 **Dependencies/Integrations (External):**
-* Flutter framework with Provider state management
-* Multi-transport layer for cross-platform communication
+* Flutter framework with Provider state management and GoRouter navigation
+* Multi-transport layer for Bluetooth LE, USB, and socket communication
+* 11-language internationalization support
 
-**Summary:**
-The Control Tool serves as the primary application for professionals to configure and manage Becker motor systems. It uses a modular architecture where each motor protocol (Centronic PLUS, EVO, Timecontrol, CC Eleven) is implemented as a separate module, allowing for flexible device management and real-time control capabilities across different communication protocols.
+**Enhanced Summary:**
+The Control Tool (Be:You) is the flagship application for professional motor control, providing a sophisticated interface for managing complex Becker motor systems. It implements a modular architecture where each protocol is handled by specialized modules, enabling seamless integration of different motor types. The application features advanced capabilities including real-time device monitoring, comprehensive configuration management, over-the-air firmware updates, and multi-language support. Built with Flutter, it delivers native performance across all major platforms while maintaining a consistent user experience through the shared UI Common design system.
 
 ---
 
-### **INSTALL TOOL**
+### **INSTALL TOOL** 🛠️
+**[📖 Detailed Documentation](install_tool/README.md)**
 
 | Field | Description |
 | :--- | :--- |
 | **Module Path** | `install_tool/` |
 | **Type** | App |
-| **Purpose/Goal** | A specialized installation and setup tool for Becker Centronic PLUS systems, designed for professional installers and technicians. |
+| **Purpose/Goal** | A specialized installation and setup tool (branded as "Becker Tool") for professional installers and technicians working with Becker motor systems. |
 
 **Key Features/Functionality:**
-* Device installation wizard for Centronic PLUS systems
-* Firmware update capabilities and version management
-* System configuration and calibration tools
-* Installation documentation and manual access
+* **Installation Wizard**: Step-by-step guided setup process for complex motor installations
+* **Multi-Protocol Support**: Centronic PLUS, EVO, Timecontrol, XCF, and CC Eleven protocols
+* **Professional Tools**: Device configuration, sensor assignment, and network management
+* **Firmware Management**: OTA updates, version tracking, and rollback capabilities
 
 **Dependencies/Integrations (External):**
-* Flutter framework with modular architecture
-* Multi-transport communication layer
-* File system integration for firmware updates
+* Flutter framework with comprehensive modular architecture
+* Multi-transport communication layer for various connection methods
+* File system integration for firmware updates and documentation access
 
-**Summary:**
-The Install Tool is specifically designed for the professional installation market, providing a streamlined interface for setting up Becker motor systems. It includes comprehensive device configuration options, firmware management capabilities, and integrates with the modular protocol system to support various Becker motor types during installation and commissioning processes.
+**Enhanced Summary:**
+The Install Tool (Becker Tool) is the professional-grade installation and commissioning application designed specifically for installers, technicians, and service personnel. It provides a comprehensive suite of tools for setting up and configuring Becker motor systems, including guided installation wizards, advanced device configuration options, and sophisticated firmware management capabilities. The application supports multiple motor protocols and includes specialized features such as sensor assignment, network optimization, and installation documentation access. With its focus on professional workflows and comprehensive device support, it streamlines the installation process while ensuring proper configuration and system optimization.
 
 ---
 
-### **SERVICE APP**
+### **SERVICE APP** 🔧
+**[📖 Detailed Documentation](service_app/README.md)**
 
 | Field | Description |
 | :--- | :--- |
 | **Module Path** | `service_app/` |
 | **Type** | App |
-| **Purpose/Goal** | A lightweight service application providing basic functionality and utilities for Becker motor systems. |
+| **Purpose/Goal** | A lightweight service application providing essential functionality and utilities for basic Becker motor system management and maintenance. |
 
 **Key Features/Functionality:**
-* Basic device connectivity and status monitoring
-* Simple configuration interfaces
-* Service and maintenance utilities
+* **Basic Device Management**: Simple device connectivity and status monitoring
+* **Essential Configuration**: Streamlined configuration interfaces for common tasks
+* **Service Utilities**: Diagnostic tools and maintenance functions
+* **Cross-Platform**: Support for Android, Windows, macOS, Linux, and Web platforms
 
 **Dependencies/Integrations (External):**
-* Flutter framework with minimal dependencies
-* UI Common library for shared components
+* Flutter framework with minimal dependencies for lightweight operation
+* UI Common library for consistent design and shared components
+* Multi-language internationalization support
 
-**Summary:**
-The Service App represents a simplified version of the control tools, focusing on essential functionality for basic device management and service operations. It leverages the shared UI components from the ui_common plugin while maintaining a lightweight footprint for quick service tasks and basic device interactions.
+**Enhanced Summary:**
+The Service App is designed as a lightweight, streamlined application for basic service operations and maintenance tasks. Unlike the full-featured Control Tool and Install Tool, it focuses on essential functionality that service technicians need for quick device checks, basic configuration adjustments, and routine maintenance. The application maintains a clean, simplified interface while providing access to core device management features. Built with minimal dependencies, it offers fast startup times and efficient operation, making it ideal for field service scenarios where quick access to basic device functions is more important than comprehensive configuration capabilities.
 
 ---
 
-### **MODULES_COMMON**
+### **MODULES_COMMON** 🏗️
+**[📖 Detailed Documentation](modules/modules_common/README.md)**
 
 | Field | Description |
 | :--- | :--- |
 | **Module Path** | `modules/modules_common/` |
 | **Type** | Package/Library |
-| **Purpose/Goal** | A shared library providing common functionality, utilities, and base classes used across all Becker applications. |
+| **Purpose/Goal** | The foundational shared library providing essential functionality, utilities, and base classes used across all Becker applications and modules. |
 
 **Key Features/Functionality:**
-* Internationalization (i18n) support and localization utilities
-* Common UI components and navigation patterns
-* Database integration with SQLite
-* HTTP client and API communication utilities
+* **Unified Exports**: Centralized import/export management for all common dependencies
+* **Cross-Platform Support**: Consistent APIs across Android, Windows, macOS, Linux, and Web
+* **State Management**: Provider-based state management utilities
+* **Database Integration**: SQLite database operations and management
 
 **Dependencies/Integrations (External):**
-* Provider for state management
-* SQLite for local data storage
+* Provider for reactive state management
+* SQLite for local data storage and persistence
 * HTTP package for network communication
-* Flutter localization framework
+* Flutter localization framework with 11+ language support
 
-**Summary:**
-Modules Common serves as the foundation library for all Becker applications, providing essential shared functionality including internationalization support, common UI patterns, database operations, and network communication. It acts as a central repository for reusable code, ensuring consistency across different applications while reducing code duplication and maintenance overhead.
+**Enhanced Summary:**
+Modules Common is the cornerstone of the entire Becker ecosystem, serving as the single source of truth for shared functionality across all applications and modules. It provides a unified foundation layer that includes comprehensive internationalization support, consistent UI patterns, robust database operations, and reliable network communication capabilities. By centralizing common functionality, it ensures consistency across the entire product suite while significantly reducing code duplication and maintenance overhead. The library acts as a bridge between the Flutter framework and the specialized modules, providing standardized interfaces and utilities that enable rapid development of new features while maintaining architectural consistency.
 
 ---
 
-### **MOD_CEN_PLUS**
+### **MOD_CEN_PLUS** ⚙️
+**[📖 Detailed Documentation](modules/mod_cen_plus/README.md)**
 
 | Field | Description |
 | :--- | :--- |
 | **Module Path** | `modules/mod_cen_plus/` |
 | **Type** | Package/Library |
-| **Purpose/Goal** | A complete implementation module for Centronic PLUS motor control protocol, providing device management and configuration capabilities. |
+| **Purpose/Goal** | A complete implementation module for the Centronic PLUS motor control protocol, providing comprehensive device management and configuration capabilities. |
 
 **Key Features/Functionality:**
-* Centronic PLUS protocol implementation with node management
-* Device configuration and parameter adjustment
-* Over-the-air (OTA) firmware update capabilities
-* Real-time device monitoring and status reporting
+* **Protocol Implementation**: Complete Centronic PLUS protocol with bidirectional communication
+* **Device Management**: Node discovery, configuration, and network management
+* **Real-time Monitoring**: Live device status, sensor readings, and performance metrics
+* **Firmware Management**: Over-the-air (OTA) updates with version tracking and rollback
 
 **Dependencies/Integrations (External):**
-* Centronic Plus protocol library
-* Multi-transport communication layer
-* Provider for state management
+* Centronic Plus protocol library for low-level communication
+* Multi-transport communication layer for cross-platform connectivity
+* Provider for reactive state management and real-time updates
 
-**Summary:**
-The Centronic PLUS module provides comprehensive support for the Centronic PLUS motor control protocol, including device discovery, configuration management, and firmware updates. It implements a complete device management system with real-time monitoring capabilities and integrates seamlessly with the multi-transport layer for cross-platform communication with Centronic PLUS devices.
+**Enhanced Summary:**
+The Centronic PLUS module is the most comprehensive protocol implementation in the Becker ecosystem, providing complete support for the Centronic PLUS motor control protocol. It offers sophisticated device management capabilities including automatic device discovery, advanced configuration management, and real-time monitoring of motor systems. The module implements a robust communication system that handles complex scenarios such as multi-device networks, sensor integration, and firmware management. With its focus on professional motor control applications, it provides the reliability and functionality needed for industrial and commercial motor control systems, making it the backbone of many Becker applications.
 
 ---
 
-### **MOD_EVO**
+### **MOD_EVO** 🔄
+**[📖 Detailed Documentation](modules/mod_evo/README.md)**
 
 | Field | Description |
 | :--- | :--- |
 | **Module Path** | `modules/mod_evo/` |
 | **Type** | Package/Library |
-| **Purpose/Goal** | A specialized module for EVO motor control systems, providing configuration and control interfaces for EVO-compatible devices. |
+| **Purpose/Goal** | A specialized module for EVO motor control systems, providing advanced configuration and control interfaces for EVO-compatible devices. |
 
 **Key Features/Functionality:**
-* EVO protocol implementation with Bluetooth Low Energy connectivity
-* Motor profile management and configuration
-* Speed and position control interfaces
-* Special function configuration and end-position settings
+* **EVO Protocol**: Complete implementation with Bluetooth Low Energy connectivity
+* **Motor Profiles**: Advanced profile management and configuration system
+* **Control Interfaces**: Speed, position, and special function control
+* **Real-time Monitoring**: Live motor status and performance tracking
 
 **Dependencies/Integrations (External):**
-* EVO protocol library
-* Bluetooth Low Energy communication
-* Provider for state management
+* EVO protocol library for low-level communication
+* Bluetooth Low Energy for wireless device connectivity
+* Provider for reactive state management
 
-**Summary:**
-The EVO module implements the complete EVO motor control protocol with focus on professional motor management. It provides intuitive interfaces for configuring motor profiles, adjusting speed settings, and managing special functions. The module uses Bluetooth Low Energy for wireless communication and integrates with the shared navigation system for consistent user experience across different motor types.
+**Enhanced Summary:**
+The EVO module represents the cutting-edge of Becker's motor control technology, implementing the complete EVO protocol with a focus on advanced motor management capabilities. It provides sophisticated interfaces for configuring motor profiles, adjusting speed settings, and managing special functions such as wind protection and sun tracking. The module leverages Bluetooth Low Energy for reliable wireless communication and integrates seamlessly with the shared navigation system, ensuring a consistent user experience across different motor types. With its emphasis on professional motor control and advanced automation features, it serves as the foundation for next-generation motor control applications.
 
 ---
 
@@ -275,28 +281,29 @@ The Update File module provides essential file management capabilities for syste
 
 ---
 
-### **UI_COMMON**
+### **UI_COMMON** 🎨
+**[📖 Detailed Documentation](plugins/ui_common/README.md)**
 
 | Field | Description |
 | :--- | :--- |
 | **Module Path** | `plugins/ui_common/` |
 | **Type** | Package/Library |
-| **Purpose/Goal** | A shared UI component library providing standardized widgets, themes, and navigation patterns for all Becker applications. |
+| **Purpose/Goal** | A comprehensive design system and component library providing standardized UI elements, themes, and navigation patterns for all Becker applications. |
 
 **Key Features/Functionality:**
-* Standardized UI components and widgets
-* Internationalization support with translation management
-* Navigation patterns and routing utilities
-* Theme and styling consistency across applications
+* **Design System**: Consistent theming, typography, and color palette
+* **Component Library**: Comprehensive set of reusable UI components
+* **Navigation System**: GoRouter-based navigation with deep linking support
+* **Internationalization**: Multi-language support with 11+ languages
 
 **Dependencies/Integrations (External):**
-* Go Router for navigation
-* Provider for state management
-* Flutter localization framework
-* Package info for app metadata
+* Go Router for modern declarative navigation
+* Provider for reactive state management
+* Flutter localization framework for i18n support
+* Package info for application metadata
 
-**Summary:**
-UI Common serves as the design system foundation for all Becker applications, ensuring visual and functional consistency across the entire product suite. It provides reusable components, standardized navigation patterns, and comprehensive internationalization support. This library is essential for maintaining a cohesive user experience while enabling rapid development of new features and applications.
+**Enhanced Summary:**
+UI Common is the design system foundation that ensures visual and functional consistency across the entire Becker product ecosystem. It provides a comprehensive library of reusable components, standardized navigation patterns, and robust internationalization support. The library serves as the single source of truth for design decisions, enabling rapid development of new features while maintaining a cohesive user experience. With its focus on accessibility, performance, and maintainability, it empowers developers to create professional-grade applications that meet the high standards expected in the motor control industry.
 
 ---
 
@@ -417,26 +424,27 @@ GetStrings is a specialized development tool that automates the extraction of in
 
 ---
 
-### **TRANSLATOR**
+### **TRANSLATOR** 🤖
+**[📖 Detailed Documentation](bin/translator/README.md)**
 
 | Field | Description |
 | :--- | :--- |
 | **Module Path** | `bin/translator/` |
 | **Type** | Package/Library |
-| **Purpose/Goal** | An AI-powered translation tool that assists in translating application strings and documentation using modern translation services. |
+| **Purpose/Goal** | An AI-powered translation tool that leverages modern translation services to automate the translation of application strings and documentation. |
 
 **Key Features/Functionality:**
-* AI-powered translation using OpenAI services
-* Automated translation workflow integration
-* OpenAPI integration for translation services
-* Batch translation processing capabilities
+* **AI-Powered Translation**: OpenAI GPT models for high-quality translations
+* **Automated Workflow**: Streamlined translation pipeline integration
+* **Multi-Language Support**: Support for 11+ target languages
+* **Quality Assurance**: Built-in validation and consistency checking
 
 **Dependencies/Integrations (External):**
-* OpenAI Dart client for AI translation
-* OpenAPI generator for service integration
+* OpenAI Dart client for AI translation services
+* OpenAPI generator for flexible service integration
 
-**Summary:**
-The Translator tool leverages modern AI translation services to automate the translation of application strings and documentation. It integrates with OpenAI services to provide high-quality translations and includes OpenAPI integration for flexible service configuration. This tool significantly accelerates the internationalization process and helps maintain consistency across multiple language versions of Becker applications.
+**Enhanced Summary:**
+The Translator tool represents a modern approach to internationalization, leveraging cutting-edge AI technology to automate the translation of application strings and documentation. It integrates seamlessly with OpenAI's GPT models to provide context-aware, high-quality translations that maintain consistency across multiple language versions. The tool includes sophisticated quality assurance features, automated workflow integration, and comprehensive error handling, making it an essential component of the Becker internationalization strategy. By significantly reducing the time and effort required for translation tasks, it enables rapid deployment of multi-language applications while maintaining the high quality standards expected in professional motor control software.
 
 ---
 
@@ -458,11 +466,96 @@ Automatisierte Tests ausführen
 
 ## Repository Structure
 
-This monorepository contains:
+This monorepository is organized into several key categories, each with its own purpose and documentation:
 
-- **Applications**: Complete Flutter apps (control_tool, install_tool, service_app)
-- **Modules**: Feature-specific packages (mod_cen_plus, mod_evo, mod_timecontrol, etc.)
-- **Plugins**: Reusable libraries and protocol implementations
-- **Utilities**: Development tools for i18n and translation management
+### 📱 **Applications** (Complete Flutter Apps)
+- **[Control Tool](control_tool/)** - Professional motor control application (Be:You)
+- **[Install Tool](install_tool/)** - Installation and commissioning tool (Becker Tool)
+- **[Service App](service_app/)** - Lightweight service and maintenance application
 
-Each module is designed to be independently maintainable while sharing common functionality through the modules_common and ui_common libraries.
+### 🧩 **Modules** (Feature-Specific Packages)
+- **[Modules Common](modules/modules_common/)** - Shared functionality and utilities
+- **[Centronic PLUS](modules/mod_cen_plus/)** - Centronic PLUS protocol implementation
+- **[EVO](modules/mod_evo/)** - EVO motor control module
+- **[Timecontrol](modules/mod_timecontrol/)** - Time-based automation module
+- **[CC Eleven](modules/mod_cc_eleven/)** - CC Eleven protocol module
+- **[XCF](modules/mod_xcf/)** - XCF motor control module
+- **[Update File](modules/mod_update_file/)** - File management and updates
+
+### 🔌 **Plugins** (Reusable Libraries)
+- **[UI Common](plugins/ui_common/)** - Design system and component library
+- **[Multi Transport](plugins/multi_transport/)** - Cross-platform communication layer
+- **[Protocol Libraries](plugins/)** - Protocol implementations (Centronic Plus, EVO, etc.)
+- **[Win BLE](plugins/win_ble/)** - Windows Bluetooth Low Energy support
+- **[Hydrogen Flutter](plugins/hydrogen_flutter/)** - Cryptographic library
+
+### 🛠️ **Utilities** (Development Tools)
+- **[Get Strings](bin/getStrings/)** - String extraction tool for i18n
+- **[Translator](bin/translator/)** - AI-powered translation tool
+- **[Tools](tools/)** - Development and maintenance utilities
+
+### 📁 **Assets & Resources**
+- **[Assets](assets/)** - Images, icons, fonts, and other resources
+- **[Documentation](documentation/)** - Project documentation and guides
+
+## Development Tools
+
+### 🔍 **Internationalization Tools**
+- **[Get Strings](bin/getStrings/README.md)** - Extract translatable strings from code
+- **[Translator](bin/translator/README.md)** - AI-powered translation automation
+- **[I18n Audit](tools/i18n_audit.py)** - Translation quality and completeness analysis
+
+### 🏗️ **Development Workflow**
+```bash
+# Extract strings for translation
+dart run getStrings lib/ -o strings.pot
+
+# Translate using AI
+dart run translator --input strings.pot --output translations/
+
+# Audit translation quality
+python tools/i18n_audit.py --output audit-report.html
+
+# Build applications
+flutter build windows --release
+flutter build macos --release
+flutter build apk --release
+```
+
+### 📊 **Quality Assurance**
+- **Code Analysis**: Automated linting and formatting
+- **Testing**: Unit, widget, and integration tests
+- **Internationalization**: Multi-language support validation
+- **Performance**: Cross-platform performance optimization
+
+## Architecture Overview
+
+```mermaid
+graph TB
+    A[Becker Ecosystem] --> B[Applications]
+    A --> C[Modules]
+    A --> D[Plugins]
+    A --> E[Utilities]
+    
+    B --> F[Control Tool]
+    B --> G[Install Tool]
+    B --> H[Service App]
+    
+    C --> I[Modules Common]
+    C --> J[Protocol Modules]
+    C --> K[Feature Modules]
+    
+    D --> L[UI Common]
+    D --> M[Multi Transport]
+    D --> N[Protocol Libraries]
+    
+    E --> O[Get Strings]
+    E --> P[Translator]
+    E --> Q[Development Tools]
+    
+    I --> R[Shared Functionality]
+    L --> S[Design System]
+    M --> T[Communication Layer]
+```
+
+Each module is designed to be independently maintainable while sharing common functionality through the modules_common and ui_common libraries, ensuring consistency and reducing code duplication across the entire ecosystem.
